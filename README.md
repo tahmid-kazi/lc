@@ -1,3 +1,1 @@
 # lc
-
-solutions repo
