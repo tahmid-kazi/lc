@@ -1,8 +1,8 @@
 class Solution:
     def calculate(self, s: str) -> int:
         # 11/10/24) Sun) 240-335pm) tk)
-        # tried but this is incorrect
-        
+        # tried iterative approach but this is incorrect
+        # now going to try the stack-based approach
         s = s.strip() #first get rid of whitespaces
         parts = []
         current_num = ""
