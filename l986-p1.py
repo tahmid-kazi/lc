@@ -1,6 +1,7 @@
 class Solution:
     def intervalIntersection(self, firstList: List[List[int]], secondList: List[List[int]]) -> List[List[int]]:
         # 11/11/24) Mon) 844 to 912pm) tk)
+        # correction = this beats 90% not 100%
         # bruh google asked me this during my interview!! (the interval question)
         intervals = []
 
