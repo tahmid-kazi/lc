@@ -1,3 +1,153 @@
+# sk - L380 -----------------------------------------------------------------------
+
+# class RandomizedSet:
+
+#     def __init__(self):
+
+#         self.list = []
+#         self.index_mapping = {}
+        
+
+#     def insert(self, val: int) -> bool:
+
+#         if val in self.list:
+#             return False
+        
+#         self.list.append(val)
+#         self.index_mapping[val] = len(self.list)-1
+#         return True
+
+        
+#     def remove(self, val: int) -> bool:
+
+#         if val not in self.list:
+#             return False
+        
+#         index = self.index_mapping[val]
+#         last_element = self.list[-1]
+#         self.list[index] = last_element
+#         self.index_mapping[last_element] = index
+
+#         self.list.pop()
+#         del self.index_mapping[val]
+#         return True
+
+#     def getRandom(self) -> int:
+
+#         import random
+
+#         return random.choice(self.list)
+        
+        
+class RandomizedSet:
+
+    def __init__(self):
+
+        self.stack = []
+        self.index_mapping = {}
+        
+
+    def insert(self, val: int) -> bool:
+
+        if val in self.index_mapping:
+            return False
+        else:
+            self.stack.append(val)
+            self.index_mapping[val] = len(self.stack) -1
+            return True
+        
+    def remove(self, val: int) -> bool:
+
+        if val not in self.index_mapping:
+            return False
+        
+        else:
+            self.stack.pop(self.index_mapping[val])
+            del self.index_mapping[val]
+            return True
+
+    def getRandom(self) -> int:
+        import random
+        return (random.choice(self.stack))
+
+  
+
+# Your RandomizedSet object will be instantiated and called as such:
+# obj = RandomizedSet()
+# param_1 = obj.insert(val)
+# param_2 = obj.remove(val)
+# param_3 = obj.getRandom()
+
+# sk - L200 -----------------------------------------------------------------------
+
+# class Solution:
+#     def numIslands(self, grid: List[List[str]]) -> int:
+
+#         if not grid:
+#             return 0
+
+
+#         def dfs(i,j):
+
+#             if i < 0 or i >= len(grid) or j < 0 or j >= len(grid[0]) or grid[i][j] == '0':
+#                 return
+            
+#             grid[i][j] = '0'
+
+#             dfs(i-1, j)
+#             dfs(i+1, j)
+#             dfs(i,j-1)
+#             dfs(i,j+1)
+
+
+#         island_count = 0
+#         for i in range(len(grid)):
+#             for j in range(len(grid[0])):
+
+#                 if grid[i][j] == '1':
+#                     island_count = island_count + 1
+#                     dfs(i,j)
+        
+#         return island_count
+
+
+
+
+class Solution:
+    def numIslands(self, grid: List[List[str]]) -> int:
+
+        
+
+        num_islands = 0
+        if not grid:
+             return 0
+
+        def dfs(i,j):
+
+            if i < 0 or j < 0 or i >= len(grid) or j >= len(grid[0]) or grid[i][j] == '0':
+               return 
+            
+            grid[i][j] = '0'
+
+            dfs(i-1, j) 
+            dfs(i+1, j) 
+            dfs(i, j-1) 
+            dfs(i, j+1) 
+
+
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                if grid[i][j] == '1':
+                    num_islands = num_islands + 1
+                    dfs(i,j)
+        return num_islands
+
+
+
+        
+
+
+
 # sk - L146 -----------------------------------------------------------------------
 
 
