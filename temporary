@@ -1,0 +1,205 @@
+# sk - L146 -----------------------------------------------------------------------
+
+
+
+
+class Node :
+
+    def __init__(self, key, value):
+
+        self.key = key
+        self.value = value
+        self.next = None
+        self.prev = None
+
+
+class LRUCache:
+
+    def __init__(self, capacity: int):
+
+        self.capacity = capacity
+        self.cache = {}
+        self.head = Node(0,0)
+        self.tail = Node(0,0)
+        self.head.next = self.tail
+        self.tail.prev = self.head
+        
+    def move_node(self, node):
+        node.prev.next = node.next
+        node.next.prev = node.prev
+
+        node.next = self.head.next
+        node.prev = self.head
+        self.head.next.prev = node
+        self.head.next = node
+
+    def add_node(self, node):
+
+        node.next = self.head.next
+        node.prev = self.head
+
+        self.head.next = node
+        node.next.prev = node 
+
+    def remove_tail_node(self):
+
+        last_node = self.tail.prev
+
+        last_node.prev.next = self.tail
+        self.tail.prev = last_node.prev
+
+        return last_node
+            
+
+    def get(self, key: int) -> int:
+
+        if key in self.cache:
+            node = self.cache[key]
+            self.move_node(node)
+            return node.value
+
+        return -1
+        
+    def put(self, key: int, value: int) -> None:
+
+        if key in self.cache:
+            node = self.cache[key]
+            node.value = value
+            self.move_node(node)
+        
+        else:
+
+            node = Node(key,value)
+
+            self.cache[key] = node
+            self.add_node(node)
+
+            if len(self.cache) > self.capacity:
+                tail_node = self.remove_tail_node() 
+                del self.cache[tail_node.key]
+        
+
+
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
+
+
+# sk - L347 -----------------------------------------------------------------------
+
+
+# class Solution:
+#     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+#         result_dict = {}
+#         heap = []
+#         for i in nums:
+#             if i in result_dict:
+#                 result_dict[i] = result_dict[i] + 1
+#             else:
+#                 result_dict[i] = 1
+        
+        
+#         for key, value in result_dict.items():
+#             heapq.heappush(heap, (-value, key) )
+        
+#         res = []
+#         while len(res) < k:
+#             res.append(heapq.heappop(heap)[1])
+        
+#         return res
+
+
+class Solution:
+    import heapq
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        frequency_dict = {}
+        for i in nums:
+            if i in frequency_dict:
+                frequency_dict[i] = frequency_dict[i] + 1
+            else: 
+                frequency_dict[i] = 1
+        
+        heap = []
+
+        for key, value in frequency_dict.items():
+            heapq.heappush(heap, (-value, key) )
+        
+        result = []
+
+        while len(result) < k:
+           result.append(heapq.heappop(heap)[1])
+        
+        return result
+            
+            
+
+
+
+# sk - L23 -----------------------------------------------------------------------
+
+# #Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+
+
+# class Solution:
+#     import heapq
+#     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+
+#         heap = []
+        
+#         for i, head in enumerate(lists):
+#             if head:  
+#                 heapq.heappush(heap, (head.val, i, head))  
+        
+#         Dummy = ListNode()
+#         current = Dummy
+
+
+#         while heap:
+
+#             value, index, node = heapq.heappop(heap)
+
+#             current.next = node
+#             current = current.next
+
+#             if node.next:
+#                 heapq.heappush(heap, (node.next.val, index, node.next))
+
+#         return Dummy.next
+
+        
+#Definition for singly-linked list.
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
+
+class Solution:
+    import heapq
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+
+
+        heap = []
+        Dummy = ListNode()
+        current = Dummy
+
+        for i,head in enumerate(lists):
+            if head:
+                heapq.heappush(heap, (head.val, i, head))  
+            
+        while heap:
+            value, index, node = heapq.heappop(heap)
+            current.next = node
+        
+
+            if node.next:
+                heapq.heappush(heap, (node.next.val, index, node.next))
+            current =  current.next
+        
+        return Dummy.next
+
