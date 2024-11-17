@@ -13,6 +13,3 @@ class Solution:
                 result.append(item) 
         
         return result
-
-
-        
