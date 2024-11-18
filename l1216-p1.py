@@ -3,6 +3,10 @@ class Solution:
         # uses DFS/recursion + 2 pointers + DP/memoization
         # reuse the palindrome checker from Leetcode 680
         # 11/18/24) Mon) 417 to 440pm) tk)
+        # ------------------------------------------------
+        # ------------ NEED TO OPTIMIZE ------------------ 
+        # ------------------------------------------------
+        
         self.string = s
         if not k:
             return self.isPalindrome(0, len(s)-1)
