@@ -1,3 +1,40 @@
+# sk L215 ---------------------------------------------------------------------
+
+class Solution:
+    import heapq
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+
+        k_elements = nums[:k]
+        heapq.heapify(k_elements)
+
+        for i in nums[k:]:
+            if i > k_elements[0]:
+                heapq.heapreplace(k_elements, i)
+        
+        return k_elements[0]
+
+
+class Solution:
+    import heapq
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        
+        k_elements = nums[:k]
+        heapq.heapify(k_elements)
+
+        for i in nums[k+1:]:
+
+            if i > k_elements[0]:
+                heapq.heapreplace(k_elements, i)
+        
+        return k_elements[0]
+
+
+
+
+
+
+
+
 # sk L5 ----------------------------------------------------------------------------------------------
 
 class Solution:
