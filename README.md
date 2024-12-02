@@ -2,28 +2,28 @@
 
 ## Dec 2, 2024 - Top 20 list
 
-| done |   number | name                                        |   order | difficulty   |
-|-----:|---------:|:--------------------------------------------|--------:|:-------------|
-| [x]  |     1249 | Minimum Remove to Make Valid Parentheses    |       1 | Med.         |
-| [x]  |      314 | Binary Tree Vertical Order Traversal        |       2 | Med.         |
-| [x]  |      680 | Valid Palindrome II                         |       3 | Easy         |
-| [x]  |      227 | Basic Calculator II                         |       4 | Med.         |
-| [x]  |      408 | Valid Word Abbreviation                     |       5 | Easy         |
-| [x]  |      215 | Kth Largest Element in an Array             |       6 | Med.         |
-| [x]  |     1650 | Lowest Common Ancestor of a Binary Tree III |       7 | Med.         |
-| [x]  |       50 | Pow(x, n)                                   |       8 | Med.         |
-| [x]  |       88 | Merge Sorted Array                          |       9 | Easy         |
-| [x]  |      236 | Lowest Common Ancestor of a Binary Tree     |      10 | Med.         |
-| [x]  |      528 | Random Pick with Weight                     |      11 | Med.         |
-| [x]  |      938 | Range Sum of BST                            |      12 | Easy         |
-| [x]  |      162 | Find Peak Element                           |      13 | Med.         |
-| [x]  |      339 | Nested List Weight Sum                      |      14 | Med.         |
-| [x]  |       71 | Simplify Path                               |      15 | Med.         |
-| [x]  |      125 | Valid Palindrome                            |      16 | Easy         |
-| [x]  |      199 | Binary Tree Right Side View                 |      17 | Med.         |
-| [x]  |      543 | Diameter of Binary Tree                     |      18 | Easy         |
-| [x]  |        1 | Two Sum                                     |      19 | Easy         |
-| [x]  |      146 | LRU Cache                                   |      20 | Med.         |
+| done |   number | name                                        |   order | difficulty   |          File        |
+|-----:|---------:|:--------------------------------------------|--------:|:-------------|----------------------|
+| [x]  |     1249 | Minimum Remove to Make Valid Parentheses    |       1 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |      314 | Binary Tree Vertical Order Traversal        |       2 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |      680 | Valid Palindrome II                         |       3 | Easy         |[l1249](./l1249-p1.py)|
+| [x]  |      227 | Basic Calculator II                         |       4 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |      408 | Valid Word Abbreviation                     |       5 | Easy         |[l1249](./l1249-p1.py)|
+| [x]  |      215 | Kth Largest Element in an Array             |       6 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |     1650 | Lowest Common Ancestor of a Binary Tree III |       7 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |       50 | Pow(x, n)                                   |       8 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |       88 | Merge Sorted Array                          |       9 | Easy         |[l1249](./l1249-p1.py)|
+| [x]  |      236 | Lowest Common Ancestor of a Binary Tree     |      10 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |      528 | Random Pick with Weight                     |      11 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |      938 | Range Sum of BST                            |      12 | Easy         |[l1249](./l1249-p1.py)|
+| [x]  |      162 | Find Peak Element                           |      13 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |      339 | Nested List Weight Sum                      |      14 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |       71 | Simplify Path                               |      15 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |      125 | Valid Palindrome                            |      16 | Easy         |[l1249](./l1249-p1.py)|
+| [x]  |      199 | Binary Tree Right Side View                 |      17 | Med.         |[l1249](./l1249-p1.py)|
+| [x]  |      543 | Diameter of Binary Tree                     |      18 | Easy         |[l1249](./l1249-p1.py)|
+| [x]  |        1 | Two Sum                                     |      19 | Easy         |[l1249](./l1249-p1.py)|
+| [x]  |      146 | LRU Cache                                   |      20 | Med.         |[l1249](./l1249-p1.py)|
 
 ### Dec 2, 2024 - top 100 list
 
