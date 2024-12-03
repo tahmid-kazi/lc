@@ -55,8 +55,8 @@ All the problems done in November 2024
 |    ✅    |        1 | Two Sum                                                    |      19 | Easy         | [l1-p1](./l1-p1.py)       |
 |    ✅    |      146 | LRU Cache                                                  |   -  20 | Med.         | [l146-p1](./l146-p1.py)   |
 |    ✅    |      560 | Subarray Sum Equals K                                      |      21 | Med.         | [l560-p1](./l560-p1.py)   |
-|          |     1570 | Dot Product of Two Sparse Vectors                          |      22 | Med.         | [l1570-p1](./l1570-p1.py) |
-|          |       56 | Merge Intervals                                            |      23 | Med.         | [l56-p1](./l56-p1.py)     |
+|    [x]   |     1570 | Dot Product of Two Sparse Vectors                          |      22 | Med.         | [l1570-p1](./l1570-p1.py) |
+|    [x]   |       56 | Merge Intervals                                            |      23 | Med.         | [l56-p1](./l56-p1.py)     |
 |    ✅    |      973 | K Closest Points to Origin                                 |      24 | Med.         | [l973-p1](./l973-p1.py)   |
 |    ✅    |      426 | Convert Binary Search Tree to Sorted Doubly Linked List    |      25 | Med.         | [l426-p1](./l426-p1.py)   |
 |    ✅    |      347 | Top K Frequent Elements                                    |      26 | Med.         | [l347-p1](./l347-p1.py)   |
