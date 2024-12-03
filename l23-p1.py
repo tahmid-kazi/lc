@@ -6,6 +6,7 @@
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         # 11/14/24) Thurs) 915 to 929pm) tk) (still in makerlab!)
+        # g14 laptop
         min_heap = []
         for l in lists:
             if l: #fill the minheap
