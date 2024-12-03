@@ -262,7 +262,7 @@ All the problems done in November 2024
 |          |       35 | Search Insert Position                                     |     118 | Easy       | [l35-p1](./l35-p1.py)     |
 |    ✅    |       38 | Count and Say                                              |     119 | Easy       | [l38-p1](./l38-p1.py)     |
 |    ✅    |       62 | Unique Paths                                               |     120 | Med.       | [l62-p1](./l62-p1.py)     |
-|    ✅    |      101 | Symmetric Tree                                             |     121 | Easy       | [l101-p1](./l101-p1.py)   |
+|          |      101 | Symmetric Tree                                             |     121 | Easy       | [l101-p1](./l101-p1.py)   |
 |          |      103 | Binary Tree Zigzag Level Order Traversal                   |     122 | Med.       | [l103-p1](./l103-p1.py)   |
 |    ✅    |      109 | Convert Sorted List to Binary Search Tree                  |     123 | Med.       | [l109-p1](./l109-p1.py)   |
 |    ✅    |      117 | Populating Next Right Pointers in Each Node II             |     124 | Med.       | [l117-p1](./l117-p1.py)   |
