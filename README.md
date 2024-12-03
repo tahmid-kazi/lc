@@ -7,7 +7,7 @@ All the problems done in November 2024
 
 |  done  |  number  | name                                        |   order | difficulty   | file                      |
 |:-------|---------:|:--------------------------------------------|--------:|:-------------|:--------------------------|
-|   ✅   |     1249 | Minimum Remove to Make Valid Parentheses    |       1 | Med.         | [l1249-p1](./l1249-p1.py) |
+|   ✅   |     1249 | Minimum Remove to Make Valid Parentheses    |       1 | Med.         | [l1249-p2](./l1249-p2.py) |
 |   ✅   |      314 | Binary Tree Vertical Order Traversal        |       2 | Med.         | [l314-p1](./l314-p1.py)   |
 |   [x]  |      680 | Valid Palindrome II                         |       3 | Easy.        | [l680-p1](./l680-p1.py)   |
 |   ✅   |      227 | Basic Calculator II                         |       4 | Med.         | [l227-p1](./l227-p1.py)   |
