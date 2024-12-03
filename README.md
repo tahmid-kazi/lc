@@ -2,136 +2,136 @@
 
 ## Dec 2, 2024 - Top 20 list
 
-| done   |   number | name                                        |   order | difficulty   | file                   |
-|:-------|---------:|:--------------------------------------------|--------:|:-------------|:-----------------------|
-| [x]    |     1249 | Minimum Remove to Make Valid Parentheses    |       1 | Med.         | [l1249](./l1249-p1.py) |
-| [x]    |      314 | Binary Tree Vertical Order Traversal        |       2 | Med.         | [l314](./l314-p1.py)   |
-| [x]    |      680 | Valid Palindrome II                         |       3 | Easy.        | [l680](./l680-p1.py)   |
-| [x]    |      227 | Basic Calculator II                         |       4 | Med.         | [l227](./l227-p1.py)   |
-| [x]    |      408 | Valid Word Abbreviation                     |       5 | Easy.        | [l408](./l408-p1.py)   |
-| [x]    |      215 | Kth Largest Element in an Array             |       6 | Med.         | [l215](./l215-p1.py)   |
-| [x]    |     1650 | Lowest Common Ancestor of a Binary Tree III |       7 | Med.         | [l1650](./l1650-p1.py) |
-| [x]    |       50 | Pow(x, n)                                   |       8 | Med.         | [l50](./l50-p1.py)     |
-| [x]    |       88 | Merge Sorted Array                          |       9 | Easy.        | [l88](./l88-p1.py)     |
-| [x]    |      236 | Lowest Common Ancestor of a Binary Tree     |      10 | Med.         | [l236](./l236-p1.py)   |
-| [x]    |      528 | Random Pick with Weight                     |      11 | Med.         | [l528](./l528-p1.py)   |
-| [x]    |      938 | Range Sum of BST                            |      12 | Easy.        | [l938](./l938-p1.py)   |
-| [x]    |      162 | Find Peak Element                           |      13 | Med.         | [l162](./l162-p1.py)   |
-| [x]    |      339 | Nested List Weight Sum                      |      14 | Med.         | [l339](./l339-p1.py)   |
-| [x]    |       71 | Simplify Path                               |      15 | Med.         | [l71](./l71-p1.py)     |
-| [x]    |      125 | Valid Palindrome                            |      16 | Easy.        | [l125](./l125-p1.py)   |
-| [x]    |      199 | Binary Tree Right Side View                 |      17 | Med.         | [l199](./l199-p1.py)   |
-| [x]    |      543 | Diameter of Binary Tree                     |      18 | Easy.        | [l543](./l543-p1.py)   |
-| [x]    |        1 | Two Sum                                     |      19 | Easy.        | [l1](./l1-p1.py)       |
-| [x]    |      146 | LRU Cache                                   |      20 | Med.         | [l146](./l146-p1.py)   |
+|  done    |  number  | name                                        |   order | difficulty   | file                      |
+|:---------|---------:|:--------------------------------------------|--------:|:-------------|:--------------------------|
+| [ x ]    |     1249 | Minimum Remove to Make Valid Parentheses    |       1 | Med.         | [l1249-p1](./l1249-p1.py) |
+| [ x ]    |      314 | Binary Tree Vertical Order Traversal        |       2 | Med.         | [l314-p1](./l314-p1.py)   |
+| [ x ]    |      680 | Valid Palindrome II                         |       3 | Easy.        | [l680-p1](./l680-p1.py)   |
+| [ x ]    |      227 | Basic Calculator II                         |       4 | Med.         | [l227-p1](./l227-p1.py)   |
+| [ x ]    |      408 | Valid Word Abbreviation                     |       5 | Easy.        | [l408-p1](./l408-p1.py)   |
+| [ x ]    |      215 | Kth Largest Element in an Array             |       6 | Med.         | [l215-p1](./l215-p1.py)   |
+| [ x ]    |     1650 | Lowest Common Ancestor of a Binary Tree III |       7 | Med.         | [l1650-p1](./l1650-p1.py) |
+| [ x ]    |       50 | Pow(x, n)                                   |       8 | Med.         | [l50-p1](./l50-p1.py)     |
+| [ x ]    |       88 | Merge Sorted Array                          |       9 | Easy.        | [l88-p1](./l88-p1.py)     |
+| [ x ]    |      236 | Lowest Common Ancestor of a Binary Tree     |      10 | Med.         | [l236-p1](./l236-p1.py)   |
+| [ x ]    |      528 | Random Pick with Weight                     |      11 | Med.         | [l528-p1](./l528-p1.py)   |
+| [ x ]    |      938 | Range Sum of BST                            |      12 | Easy.        | [l938-p1](./l938-p1.py)   |
+| [ x ]    |      162 | Find Peak Element                           |      13 | Med.         | [l162-p1](./l162-p1.py)   |
+| [ x ]    |      339 | Nested List Weight Sum                      |      14 | Med.         | [l339-p1](./l339-p1.py)   |
+| [ x ]    |       71 | Simplify Path                               |      15 | Med.         | [l71-p1](./l71-p1.py)     |
+| [ x ]    |      125 | Valid Palindrome                            |      16 | Easy.        | [l125-p1](./l125-p1.py)   |
+| [ x ]    |      199 | Binary Tree Right Side View                 |      17 | Med.         | [l199-p1](./l199-p1.py)   |
+| [ x ]    |      543 | Diameter of Binary Tree                     |      18 | Easy.        | [l543-p1](./l543-p1.py)   |
+| [ x ]    |        1 | Two Sum                                     |      19 | Easy.        | [l1-p1](./l1-p1.py)       |
+| [ x ]    |      146 | LRU Cache                                   |      20 | Med.         | [l146-p1](./l146-p1.py)   |
 
 
 ### Dec 2, 2024 - top 100 list
 
 
-| done   |   number | name                                                       |   order | difficulty   |        file            |
-|:-------|---------:|:--------------------------------------------------------   |--------:|:-------------|:-----------------------|
-| [ ]    |     1249 | Minimum Remove to Make Valid Parentheses                   |       1 | Med.         | [l1249](./l1249-p1.py) |
-| [ ]    |      314 | Binary Tree Vertical Order Traversal                       |       2 | Med.         | [l314](./l314-p1.py)   |
-| [ ]    |      680 | Valid Palindrome II                                        |       3 | Easy         | [l680](./l680-p1.py)   |
-| [ ]    |      227 | Basic Calculator II                                        |       4 | Med.         | [l227](./l227-p1.py)   |
-| [ ]    |      408 | Valid Word Abbreviation                                    |       5 | Easy         | [l408](./l408-p1.py)   |
-| [ ]    |      215 | Kth Largest Element in an Array                            |       6 | Med.         | [l215](./l215-p1.py)   |
-| [ ]    |     1650 | Lowest Common Ancestor of a Binary Tree III                |       7 | Med.         | [l1650](./l1650-p1.py) |
-| [ ]    |       50 | Pow(x, n)                                                  |       8 | Med.         | [l50](./l50-p1.py)     |
-| [ ]    |       88 | Merge Sorted Array                                         |       9 | Easy         | [l88](./l88-p1.py)     |
-| [ ]    |      236 | Lowest Common Ancestor of a Binary Tree                    |      10 | Med.         | [l236](./l236-p1.py)   |
-| [ ]    |      528 | Random Pick with Weight                                    |      11 | Med.         | [l528](./l528-p1.py)   |
-| [ ]    |      938 | Range Sum of BST                                           |      12 | Easy         | [l938](./l938-p1.py)   |
-| [ ]    |      162 | Find Peak Element                                          |      13 | Med.         | [l162](./l162-p1.py)   |
-| [ ]    |      339 | Nested List Weight Sum                                     |      14 | Med.         | [l339](./l339-p1.py)   |
-| [ ]    |       71 | Simplify Path                                              |      15 | Med.         | [l71](./l71-p1.py)     |
-| [ ]    |      125 | Valid Palindrome                                           |      16 | Easy         | [l125](./l125-p1.py)   |
-| [ ]    |      199 | Binary Tree Right Side View                                |      17 | Med.         | [l199](./l199-p1.py)   |
-| [ ]    |      543 | Diameter of Binary Tree                                    |      18 | Easy         | [l543](./l543-p1.py)   |
-| [ ]    |        1 | Two Sum                                                    |      19 | Easy         | [l1](./l1-p1.py)       |
-| [ ]    |      146 | LRU Cache                                                  |      20 | Med.         | [l146](./l146-p1.py)   |
-| [ ]    |      560 | Subarray Sum Equals K                                      |      21 | Med.         | [l560](./l560-p1.py)   |
-| [ ]    |     1570 | Dot Product of Two Sparse Vectors                          |      22 | Med.         | [l1570](./l1570-p1.py) |
-| [ ]    |       56 | Merge Intervals                                            |      23 | Med.         | [l56](./l56-p1.py)     |
-| [ ]    |      973 | K Closest Points to Origin                                 |      24 | Med.         | [l973](./l973-p1.py)   |
-| [ ]    |      426 | Convert Binary Search Tree to Sorted Doubly Linked List    |      25 | Med.         | [l426](./l426-p1.py)   |
-| [ ]    |      347 | Top K Frequent Elements                                    |      26 | Med.         | [l347](./l347-p1.py)   |
-| [ ]    |      791 | Custom Sort String                                         |      27 | Med.         | [l791](./l791-p1.py)   |
-| [ ]    |      921 | Minimum Add to Make Parentheses Valid                      |      28 | Med.         | [l921](./l921-p1.py)   |
-| [ ]    |     1091 | Shortest Path in Binary Matrix                             |      29 | Med.         | [l1091](./l1091-p1.py) |
-| [ ]    |      129 | Sum Root to Leaf Numbers                                   |      30 | Med.         | [l129](./l129-p1.py)   |
-| [ ]    |      346 | Moving Average from Data Stream                            |      31 | Easy         | [l346](./l346-p1.py)   |
-| [ ]    |     1762 | Buildings With an Ocean View                               |      32 | Med.         | [l1762](./l1762-p1.py) |
-| [ ]    |       23 | Merge k Sorted Lists                                       |      33 | Hard         | [l23](./l23-p1.py)     |
-| [ ]    |       31 | Next Permutation                                           |      34 | Med.         | [l31](./l31-p1.py)     |
-| [ ]    |      863 | All Nodes Distance K in Binary Tree                        |      35 | Med.         | [l863](./l863-p1.py)   |
-| [ ]    |      766 | Toeplitz Matrix                                            |      36 | Easy         | [l766](./l766-p1.py)   |
-| [ ]    |      986 | Interval List Intersections                                |      37 | Med.         | [l986](./l986-p1.py)   |
-| [ ]    |     1004 | Max Consecutive Ones III                                   |      38 | Med.         | [l1004](./l1004-p1.py) |
-| [ ]    |      133 | Clone Graph                                                |      39 | Med.         | [l133](./l133-p1.py)   |
-| [ ]    |      138 | Copy List with Random Pointer                              |      40 | Med.         | [l138](./l138-p1.py)   |
-| [ ]    |      163 | Missing Ranges                                             |      41 | Easy         | [l163](./l163-p1.py)   |
-| [ ]    |      282 | Expression Add Operators                                   |      42 | Hard         | [l282](./l282-p1.py)   |
-| [ ]    |      670 | Maximum Swap                                               |      43 | Med.         | [l670](./l670-p1.py)   |
-| [ ]    |        2 | Add Two Numbers                                            |      44 | Med.         | [l2](./l2-p1.py)       |
-| [ ]    |       76 | Minimum Window Substring                                   |      45 | Hard         | [l76](./l76-p1.py)     |
-| [ ]    |      415 | Add Strings                                                |      46 | Easy         | [l415](./l415-p1.py)   |
-| [ ]    |      827 | Making A Large Island                                      |      47 | Hard         | [l827](./l827-p1.py)   |
-| [ ]    |      958 | Check Completeness of a Binary Tree                        |      48 | Med.         | [l958](./l958-p1.py)   |
-| [ ]    |     1047 | Remove All Adjacent Duplicates In String                   |      49 | Easy         | [l1047](./l1047-p1.py) |
-| [ ]    |     1216 | Valid Palindrome III                                       |      50 | Hard         | [l1216](./l1216-p1.py) |
-| [ ]    |       14 | Longest Common Prefix                                      |      51 | Easy         | [l14](./l14-p1.py)     |
-| [ ]    |      116 | Populating Next Right Pointers in Each Node                |      52 | Med.         | [l116](./l116-p1.py)   |
-| [ ]    |      380 | Insert Delete GetRandom O(1)                               |      53 | Med.         | [l380](./l380-p1.py)   |
-| [ ]    |     1539 | Kth Missing Positive Number                                |      54 | Easy         | [l1539](./l1539-p1.py) |
-| [ ]    |       20 | Valid Parentheses                                          |      55 | Easy         | [l20](./l20-p1.py)     |
-| [ ]    |       65 | Valid Number                                               |      56 | Hard         | [l65](./l65-p1.py)     |
-| [ ]    |      169 | Majority Element                                           |      57 | Easy         | [l169](./l169-p1.py)   |
-| [ ]    |      173 | Binary Search Tree Iterator                                |      58 | Med.         | [l173](./l173-p1.py)   |
-| [ ]    |      197 | Rising Temperature                                         |      59 | Easy         | [l197](./l197-p1.py)   |
-| [ ]    |      200 | Number of Islands                                          |      60 | Med.         | [l200](./l200-p1.py)   |
-| [ ]    |      270 | Closest Binary Search Tree Value                           |      61 | Easy         | [l270](./l270-p1.py)   |
-| [ ]    |      987 | Vertical Order Traversal of a Binary Tree                  |      62 | Hard         | [l987](./l987-p1.py)   |
-| [ ]    |     1644 | Lowest Common Ancestor of a Binary Tree II                 |      63 | Med.         | [l1644](./l1644-p1.py) |
-| [ ]    |     1757 | Recyclable and Low Fat Products                            |      64 | Easy         | [l1757](./l1757-p1.py) |
-| [ ]    |        4 | Median of Two Sorted Arrays                                |      65 | Hard         | [l4](./l4-p1.py)       |
-| [ ]    |        8 | String to Integer (atoi)                                   |      66 | Med.         | [l8](./l8-p1.py)       |
-| [ ]    |       48 | Rotate Image                                               |      67 | Med.         | [l48](./l48-p1.py)     |
-| [ ]    |      121 | Best Time to Buy and Sell Stock                            |      68 | Easy         | [l121](./l121-p1.py)   |
-| [ ]    |      219 | Contains Duplicate II                                      |      69 | Easy         | [l219](./l219-p1.py)   |
-| [ ]    |      494 | Target Sum                                                 |      70 | Med.         | [l494](./l494-p1.py)   |
-| [ ]    |      498 | Diagonal Traverse                                          |      71 | Med.         | [l498](./l498-p1.py)   |
-| [ ]    |      523 | Continuous Subarray Sum                                    |      72 | Med.         | [l523](./l523-p1.py)   |
-| [ ]    |      529 | Minesweeper                                                |      73 | Hard         | [l529](./l529-p1.py)   |
-| [ ]    |      636 | Exclusive Time of Functions                                |      74 | Med.         | [l636](./l636-p1.py)   |
-| [ ]    |      647 | Palindromic Substrings                                     |      75 | Med.         | [l647](./l647-p1.py)   |
-| [ ]    |      721 | Accounts Merge                                             |      76 | Med.         | [l721](./l721-p1.py)   |
-| [ ]    |      825 | Friends Of Appropriate Ages                                |      77 | Med.         | [l825](./l825-p1.py)   |
-| [ ]    |       34 | Find First and Last Position of Element in Sorted Array    |      78 | Med.         | [l34](./l34-p1.py)     |
-| [ ]    |       78 | Subsets                                                    |      79 | Med.         | [l78](./l78-p1.py)     |
-| [ ]    |      139 | Word Break                                                 |      80 | Med.         | [l139](./l139-p1.py)   |
-| [ ]    |      249 | Group Shifted Strings                                      |      81 | Med.         | [l249](./l249-p1.py)   |
-| [ ]    |      253 | Meeting Rooms II                                           |      82 | Med.         | [l253](./l253-p1.py)   |
-| [ ]    |      283 | Move Zeroes                                                |      83 | Easy         | [l283](./l283-p1.py)   |
-| [ ]    |      735 | Asteroid Collision                                         |      84 | Med.         | [l735](./l735-p1.py)   |
-| [ ]    |      708 | Insert into a Sorted Circular Linked List                  |      85 | Med.         | [l708](./l708-p1.py)   |
-| [ ]    |      824 | Goat Latin                                                 |      86 | Easy         | [l824](./l824-p1.py)   |
-| [ ]    |      852 | Peak Index in a Mountain Array                             |      87 | Easy         | [l852](./l852-p1.py)   |
-| [ ]    |     2667 | Create Hello World Function                                |      88 | Easy         | [l2667](./l2667-p1.py) |
-| [ ]    |     2914 | Minimum Number of Changes to Make Binary String Beautiful  |      89 | Med.         | [l2914](./l2914-p1.py) |
-| [ ]    |        3 | Longest Substring Without Repeating Characters             |      90 | Med.         | [l3](./l3-p1.py)       |
-| [ ]    |        9 | Palindrome Number                                          |      91 | Easy         | [l9](./l9-p1.py)       |
-| [ ]    |       16 | 3Sum Closest                                               |      92 | Med.         | [l16](./l16-p1.py)     |
-| [ ]    |       19 | Remove Nth Node From End of List                           |      93 | Med.         | [l19](./l19-p1.py)     |
-| [ ]    |       40 | Combination Sum II                                         |      94 | Med.         | [l40](./l40-p1.py)     |
-| [ ]    |       43 | Multiply Strings                                           |      95 | Med.         | [l43](./l43-p1.py)     |
-| [ ]    |       53 | Maximum Subarray                                           |      96 | Med.         | [l53](./l53-p1.py)     |
-| [ ]    |       66 | Plus One                                                   |      97 | Easy         | [l66](./l66-p1.py)     |
-| [ ]    |      124 | Binary Tree Maximum Path Sum                               |      98 | Hard         | [l124](./l124-p1.py)   |
-| [ ]    |      126 | Word Ladder II                                             |      99 | Hard         | [l126](./l126-p1.py)   |
-| [ ]    |      127 | Word Ladder                                                |     100 | Hard         | [l127](./l127-p1.py)   |
-
+|   done   |   number | name                                                       |   order | difficulty   |          file             |
+|:---------|---------:|:--------------------------------------------------------   |--------:|:-------------|:--------------------------|
+| [ x ]    |     1249 | Minimum Remove to Make Valid Parentheses                   |       1 | Med.         | [l1249-p1](./l1249-p1.py) |
+| [ x ]    |      314 | Binary Tree Vertical Order Traversal                       |       2 | Med.         | [l314-p1](./l314-p1.py)   |
+| [ x ]    |      680 | Valid Palindrome II                                        |       3 | Easy         | [l680-p1](./l680-p1.py)   |
+| [ x ]    |      227 | Basic Calculator II                                        |       4 | Med.         | [l227-p1](./l227-p1.py)   |
+| [ x ]    |      408 | Valid Word Abbreviation                                    |       5 | Easy         | [l408-p1](./l408-p1.py)   |
+| [ x ]    |      215 | Kth Largest Element in an Array                            |       6 | Med.         | [l215-p1](./l215-p1.py)   |
+| [ x ]    |     1650 | Lowest Common Ancestor of a Binary Tree III                |       7 | Med.         | [l1650-p1](./l1650-p1.py) |
+| [ x ]    |       50 | Pow(x, n)                                                  |       8 | Med.         | [l50-p1](./l50-p1.py)     |
+| [ x ]    |       88 | Merge Sorted Array                                         |       9 | Easy         | [l88-p1](./l88-p1.py)     |
+| [ x ]    |      236 | Lowest Common Ancestor of a Binary Tree                    |      10 | Med.         | [l236-p1](./l236-p1.py)   |
+| [ x ]    |      528 | Random Pick with Weight                                    |      11 | Med.         | [l528-p1](./l528-p1.py)   |
+| [ x ]    |      938 | Range Sum of BST                                           |      12 | Easy         | [l938-p1](./l938-p1.py)   |
+| [ x ]    |      162 | Find Peak Element                                          |      13 | Med.         | [l162-p1](./l162-p1.py)   |
+| [ x ]    |      339 | Nested List Weight Sum                                     |      14 | Med.         | [l339-p1](./l339-p1.py)   |
+| [ x ]    |       71 | Simplify Path                                              |      15 | Med.         | [l71-p1](./l71-p1.py)     |
+| [ x ]    |      125 | Valid Palindrome                                           |      16 | Easy         | [l125-p1](./l125-p1.py)   |
+| [ x ]    |      199 | Binary Tree Right Side View                                |      17 | Med.         | [l199-p1](./l199-p1.py)   |
+| [ x ]    |      543 | Diameter of Binary Tree                                    |      18 | Easy         | [l543-p1](./l543-p1.py)   |
+| [ x ]    |        1 | Two Sum                                                    |      19 | Easy         | [l1-p1](./l1-p1.py)       |
+| [ x ]    |      146 | LRU Cache                                                  |      20 | Med.         | [l146-p1](./l146-p1.py)   |
+| [ x ]    |      560 | Subarray Sum Equals K                                      |      21 | Med.         | [l560-p1](./l560-p1.py)   |
+| [ x ]    |     1570 | Dot Product of Two Sparse Vectors                          |      22 | Med.         | [l1570-p1](./l1570-p1.py) |
+| [ x ]    |       56 | Merge Intervals                                            |      23 | Med.         | [l56-p1](./l56-p1.py)     |
+| [ x ]    |      973 | K Closest Points to Origin                                 |      24 | Med.         | [l973-p1](./l973-p1.py)   |
+| [ x ]    |      426 | Convert Binary Search Tree to Sorted Doubly Linked List    |      25 | Med.         | [l426-p1](./l426-p1.py)   |
+| [ x ]    |      347 | Top K Frequent Elements                                    |      26 | Med.         | [l347-p1](./l347-p1.py)   |
+| [ x ]    |      791 | Custom Sort String                                         |      27 | Med.         | [l791-p1](./l791-p1.py)   |
+| [ x ]    |      921 | Minimum Add to Make Parentheses Valid                      |      28 | Med.         | [l921-p1](./l921-p1.py)   |
+| [ x ]    |     1091 | Shortest Path in Binary Matrix                             |      29 | Med.         | [l1091-p1](./l1091-p1.py) |
+| [ x ]    |      129 | Sum Root to Leaf Numbers                                   |      30 | Med.         | [l129-p1](./l129-p1.py)   |
+| [ x ]    |      346 | Moving Average from Data Stream                            |      31 | Easy         | [l346-p1](./l346-p1.py)   |
+| [ x ]    |     1762 | Buildings With an Ocean View                               |      32 | Med.         | [l1762-p1](./l1762-p1.py) |
+| [ x ]    |       23 | Merge k Sorted Lists                                       |      33 | Hard         | [l23-p1](./l23-p1.py)     |
+| [ x ]    |       31 | Next Permutation                                           |      34 | Med.         | [l31-p1](./l31-p1.py)     |
+| [ x ]    |      863 | All Nodes Distance K in Binary Tree                        |      35 | Med.         | [l863-p1](./l863-p1.py)   |
+| [ x ]    |      766 | Toeplitz Matrix                                            |      36 | Easy         | [l766-p1](./l766-p1.py)   |
+| [ x ]    |      986 | Interval List Intersections                                |      37 | Med.         | [l986-p1](./l986-p1.py)   |
+| [ x ]    |     1004 | Max Consecutive Ones III                                   |      38 | Med.         | [l1004-p1](./l1004-p1.py) |
+| [ x ]    |      133 | Clone Graph                                                |      39 | Med.         | [l133-p1](./l133-p1.py)   |
+| [ x ]    |      138 | Copy List with Random Pointer                              |      40 | Med.         | [l138-p1](./l138-p1.py)   |
+| [ x ]    |      163 | Missing Ranges                                             |      41 | Easy         | [l163-p1](./l163-p1.py)   |
+| [ x ]    |      282 | Expression Add Operators                                   |      42 | Hard         | [l282-p1](./l282-p1.py)   |
+| [ x ]    |      670 | Maximum Swap                                               |      43 | Med.         | [l670-p1](./l670-p1.py)   |
+| [ x ]    |        2 | Add Two Numbers                                            |      44 | Med.         | [l2-p1](./l2-p1.py)       |
+| [ x ]    |       76 | Minimum Window Substring                                   |      45 | Hard         | [l76-p1](./l76-p1.py)     |
+| [ x ]    |      415 | Add Strings                                                |      46 | Easy         | [l415-p1](./l415-p1.py)   |
+| [ x ]    |      827 | Making A Large Island                                      |      47 | Hard         | [l827-p1](./l827-p1.py)   |
+| [ x ]    |      958 | Check Completeness of a Binary Tree                        |      48 | Med.         | [l958-p1](./l958-p1.py)   |
+| [ x ]    |     1047 | Remove All Adjacent Duplicates In String                   |      49 | Easy         | [l1047-p1](./l1047-p1.py) |
+| [ x ]    |     1216 | Valid Palindrome III                                       |      50 | Hard         | [l1216-p1](./l1216-p1.py) |
+| [ x ]    |       14 | Longest Common Prefix                                      |      51 | Easy         | [l14-p1](./l14-p1.py)     |
+| [ x ]    |      116 | Populating Next Right Pointers in Each Node                |      52 | Med.         | [l116-p1](./l116-p1.py)   |
+| [ x ]    |      380 | Insert Delete GetRandom O(1)                               |      53 | Med.         | [l380-p1](./l380-p1.py)   |
+| [ x ]    |     1539 | Kth Missing Positive Number                                |      54 | Easy         | [l1539-p1](./l1539-p1.py) |
+| [ x ]    |       20 | Valid Parentheses                                          |      55 | Easy         | [l20-p1](./l20-p1.py)     |
+| [ x ]    |       65 | Valid Number                                               |      56 | Hard         | [l65-p1](./l65-p1.py)     |
+| [ x ]    |      169 | Majority Element                                           |      57 | Easy         | [l169-p1](./l169-p1.py)   |
+| [ x ]    |      173 | Binary Search Tree Iterator                                |      58 | Med.         | [l173-p1](./l173-p1.py)   |
+| [ x ]    |      197 | Rising Temperature                                         |      59 | Easy         | [l197-p1](./l197-p1.py)   |
+| [ x ]    |      200 | Number of Islands                                          |      60 | Med.         | [l200-p1](./l200-p1.py)   |
+| [ x ]    |      270 | Closest Binary Search Tree Value                           |      61 | Easy         | [l270-p1](./l270-p1.py)   |
+| [ x ]    |      987 | Vertical Order Traversal of a Binary Tree                  |      62 | Hard         | [l987-p1](./l987-p1.py)   |
+| [ x ]    |     1644 | Lowest Common Ancestor of a Binary Tree II                 |      63 | Med.         | [l1644-p1](./l1644-p1.py) |
+| [ x ]    |     1757 | Recyclable and Low Fat Products                            |      64 | Easy         | [l1757-p1](./l1757-p1.py) |
+| [ x ]    |        4 | Median of Two Sorted Arrays                                |      65 | Hard         | [l4-p1](./l4-p1.py)       |
+| [ x ]    |        8 | String to Integer (atoi)                                   |      66 | Med.         | [l8-p1](./l8-p1.py)       |
+| [ x ]    |       48 | Rotate Image                                               |      67 | Med.         | [l48-p1](./l48-p1.py)     |
+| [ x ]    |      121 | Best Time to Buy and Sell Stock                            |      68 | Easy         | [l121-p1](./l121-p1.py)   |
+| [ x ]    |      219 | Contains Duplicate II                                      |      69 | Easy         | [l219-p1](./l219-p1.py)   |
+| [ x ]    |      494 | Target Sum                                                 |      70 | Med.         | [l494-p1](./l494-p1.py)   |
+| [ x ]    |      498 | Diagonal Traverse                                          |      71 | Med.         | [l498-p1](./l498-p1.py)   |
+| [ x ]    |      523 | Continuous Subarray Sum                                    |      72 | Med.         | [l523-p1](./l523-p1.py)   |
+| [ x ]    |      529 | Minesweeper                                                |      73 | Hard         | [l529-p1](./l529-p1.py)   |
+| [ x ]    |      636 | Exclusive Time of Functions                                |      74 | Med.         | [l636-p1](./l636-p1.py)   |
+| [ x ]    |      647 | Palindromic Substrings                                     |      75 | Med.         | [l647-p1](./l647-p1.py)   |
+| [ x ]    |      721 | Accounts Merge                                             |      76 | Med.         | [l721-p1](./l721-p1.py)   |
+| [ x ]    |      825 | Friends Of Appropriate Ages                                |      77 | Med.         | [l825-p1](./l825-p1.py)   |
+| [ x ]    |       34 | Find First and Last Position of Element in Sorted Array    |      78 | Med.         | [l34-p1](./l34-p1.py)     |
+| [ x ]    |       78 | Subsets                                                    |      79 | Med.         | [l78-p1](./l78-p1.py)     |
+| [ x ]    |      139 | Word Break                                                 |      80 | Med.         | [l139-p1](./l139-p1.py)   |
+| [ x ]    |      249 | Group Shifted Strings                                      |      81 | Med.         | [l249-p1](./l249-p1.py)   |
+| [ x ]    |      253 | Meeting Rooms II                                           |      82 | Med.         | [l253-p1](./l253-p1.py)   |
+| [ x ]    |      283 | Move Zeroes                                                |      83 | Easy         | [l283-p1](./l283-p1.py)   |
+| [ x ]    |      735 | Asteroid Collision                                         |      84 | Med.         | [l735-p1](./l735-p1.py)   |
+| [ x ]    |      708 | Insert into a Sorted Circular Linked List                  |      85 | Med.         | [l708-p1](./l708-p1.py)   |
+| [ x ]    |      824 | Goat Latin                                                 |      86 | Easy         | [l824-p1](./l824-p1.py)   |
+| [ x ]    |      852 | Peak Index in a Mountain Array                             |      87 | Easy         | [l852-p1](./l852-p1.py)   |
+| [ x ]    |     2667 | Create Hello World Function                                |      88 | Easy         | [l2667-p1](./l2667-p1.py) |
+| [ x ]    |     2914 | Minimum Number of Changes to Make Binary String Beautiful  |      89 | Med.         | [l2914-p1](./l2914-p1.py) |
+| [ x ]    |        3 | Longest Substring Without Repeating Characters             |      90 | Med.         | [l3-p1](./l3-p1.py)       |
+| [ x ]    |        9 | Palindrome Number                                          |      91 | Easy         | [l9-p1](./l9-p1.py)       |
+| [ x ]    |       16 | 3Sum Closest                                               |      92 | Med.         | [l16-p1](./l16-p1.py)     |
+| [ x ]    |       19 | Remove Nth Node From End of List                           |      93 | Med.         | [l19-p1](./l19-p1.py)     |
+| [ x ]    |       40 | Combination Sum II                                         |      94 | Med.         | [l40-p1](./l40-p1.py)     |
+| [ x ]    |       43 | Multiply Strings                                           |      95 | Med.         | [l43-p1](./l43-p1.py)     |
+| [ x ]    |       53 | Maximum Subarray                                           |      96 | Med.         | [l53-p1](./l53-p1.py)     |
+| [ x ]    |       66 | Plus One                                                   |      97 | Easy         | [l66-p1](./l66-p1.py)     |
+| [ x ]    |      124 | Binary Tree Maximum Path Sum                               |      98 | Hard         | [l124-p1](./l124-p1.py)   |
+| [ x ]    |      126 | Word Ladder II                                             |      99 | Hard         | [l126-p1](./l126-p1.py)   |
+| [ x ]    |      127 | Word Ladder                                                |     100 | Hard         | [l127-p1](./l127-p1.py)   |
+ 
 
 
 
