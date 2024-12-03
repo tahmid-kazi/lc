@@ -242,7 +242,7 @@ All the problems done in November 2024
 |    ✅    |      124 | Binary Tree Maximum Path Sum                               |      98 | Hard       | [l124-p1](./l124-p1.py)   |
 |    ✅    |      126 | Word Ladder II                                             |      99 | Hard       | [l126-p1](./l126-p1.py)   |
 |    ✅    |      127 | Word Ladder                                                |     100 | Hard       | [l127-p1](./l127-p1.py)   |
-|    []    |      143 | Reorder List                                               |     101 | Med.       | [l143-p1](./l143-p1.py)   |
+|    ✅    |      143 | Reorder List                                               |     101 | Med.       | [l143-p1](./l143-p1.py)   |
 |    ✅    |      269 | Alien Dictionary                                           |     102 | Hard       | [l269-p1](./l269-p1.py)   |
 |    ✅    |      329 | Longest Increasing Path in a Matrix                        |     103 | Hard       | [l329-p1](./l329-p1.py)   |
 |    ✅    |      378 | Kth Smallest Element in a Sorted Matrix                    |     104 | Med.       | [l378-p1](./l378-p1.py)   |
@@ -259,37 +259,37 @@ All the problems done in November 2024
 |    ✅    |     3097 | Shortest Subarray With OR at Least K II                    |     115 | Med.       | [l3097-p1](./l3097-p1.py) |
 |    ✅    |        5 | Longest Palindromic Substring                              |     116 | Med.       | [l5-p1](./l5-p1.py)       |
 |    ✅    |       12 | Integer to Roman                                           |     117 | Med.       | [l12-p1](./l12-p1.py)     |
-|    ✅    |       35 | Search Insert Position                                     |     118 | Easy       | [l35-p1](./l35-p1.py)     |
+|          |       35 | Search Insert Position                                     |     118 | Easy       | [l35-p1](./l35-p1.py)     |
 |    ✅    |       38 | Count and Say                                              |     119 | Easy       | [l38-p1](./l38-p1.py)     |
 |    ✅    |       62 | Unique Paths                                               |     120 | Med.       | [l62-p1](./l62-p1.py)     |
 |    ✅    |      101 | Symmetric Tree                                             |     121 | Easy       | [l101-p1](./l101-p1.py)   |
-|    ✅    |      103 | Binary Tree Zigzag Level Order Traversal                   |     122 | Med.       | [l103-p1](./l103-p1.py)   |
+|          |      103 | Binary Tree Zigzag Level Order Traversal                   |     122 | Med.       | [l103-p1](./l103-p1.py)   |
 |    ✅    |      109 | Convert Sorted List to Binary Search Tree                  |     123 | Med.       | [l109-p1](./l109-p1.py)   |
 |    ✅    |      117 | Populating Next Right Pointers in Each Node II             |     124 | Med.       | [l117-p1](./l117-p1.py)   |
-|    ✅    |      118 | Pascal's Triangle                                          |     125 | Easy       | [l118-p1](./l118-p1.py)   |
-|    ✅    |      136 | Single Number                                              |     126 | Easy       | [l136-p1](./l136-p1.py)   |
+|          |      118 | Pascal's Triangle                                          |     125 | Easy       | [l118-p1](./l118-p1.py)   |
+|          |      136 | Single Number                                              |     126 | Easy       | [l136-p1](./l136-p1.py)   |
 |    ✅    |      198 | House Robber                                               |     127 | Med.       | [l198-p1](./l198-p1.py)   |
-|    ✅    |      202 | Happy Number                                               |     128 | Easy       | [l202-p1](./l202-p1.py)   |
+|          |      202 | Happy Number                                               |     128 | Easy       | [l202-p1](./l202-p1.py)   |
 |    ✅    |      207 | Course Schedule                                            |     129 | Med.       | [l207-p1](./l207-p1.py)   |
 |    ✅    |      224 | Basic Calculator                                           |     130 | Hard       | [l224-p1](./l224-p1.py)   |
 |    ✅    |      229 | Majority Element II                                        |     131 | Med.       | [l229-p1](./l229-p1.py)   |
 |    ✅    |      231 | Power of Two                                               |     132 | Easy       | [l231-p1](./l231-p1.py)   |
-|    ✅    |      235 | Lowest Common Ancestor of a Binary Search Tree             |     133 | Med.       | [l235-p1](./l235-p1.py)   |
+|          |      235 | Lowest Common Ancestor of a Binary Search Tree             |     133 | Med.       | [l235-p1](./l235-p1.py)   |
 |    ✅    |      238 | Product of Array Except Self                               |     134 | Med.       | [l238-p1](./l238-p1.py)   |
 |    ✅    |      239 | Sliding Window Maximum                                     |     135 | Hard       | [l239-p1](./l239-p1.py)   |
-|    ✅    |      247 | Strobogrammatic Number II                                  |     136 | Med.       | [l247-p1](./l247-p1.py)   |
-|    ✅    |      273 | Integer to English Words                                   |     137 | Hard       | [l273-p1](./l273-p1.py)   |
+|          |      247 | Strobogrammatic Number II                                  |     136 | Med.       | [l247-p1](./l247-p1.py)   |
+|          |      273 | Integer to English Words                                   |     137 | Hard       | [l273-p1](./l273-p1.py)   |
 |    ✅    |      295 | Find Median from Data Stream                               |     138 | Hard       | [l295-p1](./l295-p1.py)   |
 |    ✅    |      296 | Best Meeting Point                                         |     139 | Hard       | [l296-p1](./l296-p1.py)   |
 |    ✅    |      325 | Maximum Size Subarray Sum Equals k                         |     140 | Med.       | [l325-p1](./l325-p1.py)   |
 |    ✅    |      348 | Design Tic-Tac-Toe                                         |     141 | Med.       | [l348-p1](./l348-p1.py)   |
-|    ✅    |      450 | Delete Node in a BST                                       |     142 | Med.       | [l450-p1](./l450-p1.py)   |
-|    ✅    |      501 | Find Mode in Binary Search Tree                            |     143 | Easy       | [l501-p1](./l501-p1.py)   |
+|          |      450 | Delete Node in a BST                                       |     142 | Med.       | [l450-p1](./l450-p1.py)   |
+|          |      501 | Find Mode in Binary Search Tree                            |     143 | Easy       | [l501-p1](./l501-p1.py)   |
 |    ✅    |      536 | Construct Binary Tree from String                          |     144 | Med.       | [l536-p1](./l536-p1.py)   |
 |    ✅    |      643 | Maximum Average Subarray I                                 |     145 | Easy       | [l643-p1](./l643-p1.py)   |
-|    ✅    |      678 | Valid Parenthesis String                                   |     146 | Med.       | [l678-p1](./l678-p1.py)   |
+|          |      678 | Valid Parenthesis String                                   |     146 | Med.       | [l678-p1](./l678-p1.py)   |
 |    ✅    |      723 | Candy Crush                                                |     147 | Med.       | [l723-p1](./l723-p1.py)   |
-|    ✅    |      773 | Sliding Puzzle                                             |     148 | Hard       | [l773-p1](./l773-p1.py)   |
+|          |      773 | Sliding Puzzle                                             |     148 | Hard       | [l773-p1](./l773-p1.py)   |
 |    ✅    |      703 | Kth Largest Element in a Stream                            |     149 | Easy       | [l703-p1](./l703-p1.py)   |
 |    ✅    |      907 | Sum of Subarray Minimums                                   |     150 | Med.       | [l907-p1](./l907-p1.py)   |
 |    ✅    |     1161 | Maximum Level Sum of a Binary Tree                         |     151 | Med.       | [l1161-p1](./l1161-p1.py) |
