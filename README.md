@@ -76,7 +76,7 @@ All the problems done in November 2024
 |    ✅    |      138 | Copy List with Random Pointer                              |      40 | Med.         | [l138-p1](./l138-p1.py)   |
 |    ✅    |      163 | Missing Ranges                                             |      41 | Easy         | [l163-p1](./l163-p1.py)   |
 |    ✅    |      282 | Expression Add Operators                                   |      42 | Hard         | [l282-p1](./l282-p1.py)   |
-|          |      670 | Maximum Swap                                               |      43 | Med.         | [l670-p1](./l670-p1.py)   |
+|    [x]   |      670 | Maximum Swap                                               |      43 | Med.         | [l670-p1](./l670-p1.py)   |
 |    ✅    |        2 | Add Two Numbers                                            |      44 | Med.         | [l2-p1](./l2-p1.py)       |
 |    ✅    |       76 | Minimum Window Substring                                   |      45 | Hard         | [l76-p1](./l76-p1.py)     |
 |    ✅    |      415 | Add Strings                                                |      46 | Easy         | [l415-p1](./l415-p1.py)   |
@@ -88,7 +88,7 @@ All the problems done in November 2024
 |    ✅    |      116 | Populating Next Right Pointers in Each Node                |      52 | Med.         | [l116-p1](./l116-p1.py)   |
 |    ✅    |      380 | Insert Delete GetRandom O(1)                               |      53 | Med.         | [l380-p1](./l380-p1.py)   |
 |    ✅    |     1539 | Kth Missing Positive Number                                |      54 | Easy         | [l1539-p1](./l1539-p1.py) |
-|          |       20 | Valid Parentheses                                          |      55 | Easy         | [l20-p1](./l20-p1.py)     |
+|    [x]   |       20 | Valid Parentheses                                          |      55 | Easy         | [l20-p1](./l20-p1.py)     |
 |    ✅    |       65 | Valid Number                                               |      56 | Hard         | [l65-p1](./l65-p1.py)     |
 |    ✅    |      169 | Majority Element                                           |      57 | Easy         | [l169-p1](./l169-p1.py)   |
 |    ✅    |      173 | Binary Search Tree Iterator                                |      58 | Med.         | [l173-p1](./l173-p1.py)   |
@@ -126,7 +126,7 @@ All the problems done in November 2024
 |    ✅    |        3 | Longest Substring Without Repeating Characters             |      90 | Med.         | [l3-p1](./l3-p1.py)       |
 |    ✅    |        9 | Palindrome Number                                          |      91 | Easy         | [l9-p1](./l9-p1.py)       |
 |    ✅    |       16 | 3Sum Closest                                               |      92 | Med.         | [l16-p1](./l16-p1.py)     |
-|          |       19 | Remove Nth Node From End of List                           |      93 | Med.         | [l19-p1](./l19-p1.py)     |
+|    [x]   |       19 | Remove Nth Node From End of List                           |      93 | Med.         | [l19-p1](./l19-p1.py)     |
 |    ✅    |       40 | Combination Sum II                                         |      94 | Med.         | [l40-p1](./l40-p1.py)     |
 |    ✅    |       43 | Multiply Strings                                           |      95 | Med.         | [l43-p1](./l43-p1.py)     |
 |    ✅    |       53 | Maximum Subarray                                           |      96 | Med.         | [l53-p1](./l53-p1.py)     |
