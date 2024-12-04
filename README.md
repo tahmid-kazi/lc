@@ -24,7 +24,7 @@ All the problems done in November 2024
 |   ✅   |       71 | Simplify Path                               |      15 | Med.         | [l71-p1](./l71-p1.py)     |
 |   [x]  |      125 | Valid Palindrome                            |      16 | Easy.        | [l125-p1](./l125-p1.py)   |
 |   ✅   |      199 | Binary Tree Right Side View                 |      17 | Med.         | [l199-p1](./l199-p1.py)   |
-|   [x]  |      543 | Diameter of Binary Tree                     |      18 | Easy.        | [l543-p1](./l543-p1.py)   |
+|   [x]  |      543 | Diameter of Binary Tree                     |      18 | Easy.        | [l543-p2](./l543-p2.py)   |
 |   ✅   |        1 | Two Sum                                     |      19 | Easy.        | [l1-p1](./l1-p1.py)       |
 |   ✅   |      146 | LRU Cache                                   |      20 | Med.         | [l146-p1](./l146-p1.py)   |
 
