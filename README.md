@@ -18,7 +18,7 @@ All the problems done in November 2024
 |   ✅   |       88 | Merge Sorted Array                          |       9 | Easy.        | [l88-p1](./l88-p1.py)     |
 |   [x]  |      236 | Lowest Common Ancestor of a Binary Tree     |      10 | Med.         | [l236-p1](./l236-p1.py)   |
 |   [x]  |      528 | Random Pick with Weight                     |      11 | Med.         | [l528-p1](./l528-p1.py)   |
-|   ✅   |      938 | Range Sum of BST                            |      12 | Easy.        | [l938-p1](./l938-p1.py)   |
+|   ✅   |      938 | Range Sum of BST                            |      12 | Easy.        | [l938-p2](./l938-p2.py)   |
 |   [x]  |      162 | Find Peak Element                           |      13 | Med.         | [l162-p1](./l162-p1.py)   |
 |   ✅   |      339 | Nested List Weight Sum                      |      14 | Med.         | [l339-p1](./l339-p1.py)   |
 |   ✅   |       71 | Simplify Path                               |      15 | Med.         | [l71-p1](./l71-p1.py)     |
