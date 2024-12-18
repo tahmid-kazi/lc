@@ -1,6 +1,6 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        # binary search O(logn)
+        # binary search O(logn), blind75 classic
         left, right = 0, len(nums)-1
         # 12/18/24) tk) Wed) 428-451pm)
         while left < right:
