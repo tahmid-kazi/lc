@@ -5,6 +5,8 @@ class Solution:
         # if bruh2 > 2**31-1 or bruh2 < -2**31:
         #     return 0
         # return bruh2
+
+        # bit manipulation and subtraction, O(logn) runtime
         # 12/17/24) Tue) 856-927pm) tk) 
         # edge case
         if dividend == -2**31 and divisor == -1:
