@@ -1,3 +1,73 @@
+# sk? - L450 --------------------------------------------------------------------------------------------------
+
+class Solution:
+    def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
+        if not root:
+            return None
+        
+        original_root = root
+
+        # Helper DFS function to find the leftmost (successor) or rightmost (predecessor) node
+        def dfs(parent, node, direction):
+            while node.left:  # Find the leftmost node in the subtree
+                parent = node
+                node = node.left
+                direction = "L"
+            return parent, node, direction
+
+        parent = None
+        direction = None
+
+        # Step 1: Locate the node to delete
+        while root and root.val != key:
+            parent = root
+            if key < root.val:
+                direction = "L"
+                root = root.left
+            else:
+                direction = "R"
+                root = root.right
+
+        # If the key is not found, return the original tree
+        if not root:
+            return original_root
+
+        # Step 2: Handle deletion cases
+        # Case 1: Node is a leaf
+        if not root.left and not root.right:
+            if direction == "L":
+                parent.left = None
+            elif direction == "R":
+                parent.right = None
+            else:
+                return None  # The node is the root and is the only node
+
+        # Case 2: Node has one child
+        elif not root.left or not root.right:
+            child = root.left if root.left else root.right
+            if direction == "L":
+                parent.left = child
+            elif direction == "R":
+                parent.right = child
+            else:
+                return child  # The node is the root
+
+        # Case 3: Node has two children
+        else:
+            # Use DFS to find the in-order successor
+            successor_parent, successor, successor_dir = dfs(root, root.right, "R")
+
+            # Replace the current node's value with the successor's value
+            root.val = successor.val
+
+            # Remove the successor node
+            if successor_dir == "L":
+                successor_parent.left = successor.right
+            else:
+                successor_parent.right = successor.right
+
+        return original_root
+
 #sk - L54 --------------------------------------------------------------------------
 
 
