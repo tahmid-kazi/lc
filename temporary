@@ -1,3 +1,55 @@
+# sk + tk - L525 ----------------------------------------------------------------------------------------------
+
+# class Solution:
+#     def findMaxLength(self, nums: List[int]) -> int:
+
+#         sum_map = {0: -1}
+#         sum_sub = 0
+#         max_length = 0
+        
+#         for i in range(len(nums)):
+
+#             if nums[i] == 1:
+#                 sum_sub = sum_sub + 1
+#             else:
+#                 sum_sub = sum_sub - 1
+            
+#             if sum_sub in sum_map:
+#                 length = i - sum_map[sum_sub]
+#                 if length > max_length:
+#                     max_length = length
+            
+#             else:
+#                 sum_map[sum_sub] = i
+        
+#         return max_length
+
+
+class Solution:
+    def findMaxLength(self, nums: List[int]) -> int:
+
+        sum_map = {0: -1}
+        sum_sub = 0
+        max_length = 0
+
+        for i in range(len(nums)):
+
+            if nums[i] == 1:
+                sum_sub = sum_sub + 1
+            else:
+                sum_sub = sum_sub -1
+            
+            if sum_sub in sum_map:
+                length = (i - sum_map[sum_sub])
+                if length > max_length:
+                    max_length = length
+            else:
+                sum_map[sum_sub] = i
+
+        return max_length
+            
+        
+
 # sk? - L450 --------------------------------------------------------------------------------------------------
 
 class Solution:
