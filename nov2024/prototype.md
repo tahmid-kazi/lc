@@ -1,4 +1,29 @@
-### Top 200 list (from the past 6 months) (Meta)
+###### example list
+|   done   |   number | name                                                       |   order | difficulty   |          file             |
+|:---------|---------:|:-----------------------------------------------------------|--------:|:-------------|:--------------------------|
+|    ✅    |     1249 | Minimum Remove to Make Valid Parentheses                   |       1 | Med.         | [l1249-p1](./l1249-p1.py) |
+|    ✅    |      680 | Valid Palindrome II                                        |       2 | Easy         | [l680-p1](./l680-p1.py)   |
+|    ✅    |      408 | Valid Word Abbreviation                                    |       3 | Easy         | [l408-p1](./l408-p1.py)   |
+|    ✅    |      314 | Binary Tree Vertical Order Traversal                       |       4 | Med.         | [l314-p1](./l314-p1.py)   |
+|    ✅    |      215 | Kth Largest Element in an Array                            |       5 | Med.         | [l215-p1](./l215-p1.py)   |
+|    ✅    |      227 | Basic Calculator II                                        |       6 | Med.         | [l227-p1](./l227-p1.py)   |
+|    ✅    |     1650 | Lowest Common Ancestor of a Binary Tree III                |       7 | Med.         | [l1650-p1](./l1650-p1.py) |
+|    ✅    |      339 | Nested List Weight Sum                                     |       8 | Med.         | [l339-p1](./l339-p1.py)   |
+|    ✅    |       88 | Merge Sorted Array                                         |       9 | Easy         | [l88-p1](./l88-p1.py)     |
+|    ✅    |      528 | Random Pick with Weight                                    |      10 | Med.         | [l528-p1](./l528-p1.py)   |
+|    ✅    |      236 | Lowest Common Ancestor of a Binary Tree                    |      11 | Med.         | [l236-p1](./l236-p1.py)   |
+|    ✅    |      162 | Find Peak Element                                          |      12 | Med.         | [l162-p1](./l162-p1.py)   |
+|    ✅    |       50 | Pow(x, n)                                                  |      13 | Med.         | [l50-p1](./l50-p1.py)     |
+|    ✅    |       71 | Simplify Path                                              |      14 | Med.         | [l71-p1](./l71-p1.py)     |
+|    ✅    |     1570 | Dot Product of Two Sparse Vectors                          |      15 | Med.         | [l1570-p1](./l1570-p1.py) |
+|    ✅    |      938 | Range Sum of BST                                           |      16 | Easy         | [l938-p1](./l938-p1.py)   |
+
+
+
+
+### Top 200 list from the past 6 months (Meta)
+
+#### Table 1 (16 problems) (#1 to #16)
 
 | done   |   number | name                                                    |   order | difficulty   | file                      |
 |:-------|---------:|:--------------------------------------------------------|--------:|:-------------|:--------------------------|
@@ -17,6 +42,12 @@
 | ✅     |       50 | Pow(x, n)                                               |    13   | Med.         | [l50-p1](./l50-p1.py)     |
 | ✅     |       71 | Simplify Path                                           |    14   | Med.         | [l71-p1](./l71-p1.py)     |
 | ✅     |     1570 | Dot Product of Two Sparse Vectors                       |    15   | Med.         | [l1570-p1](./l1570-p1.py) |
+| ✅     |      938 | Range Sum of BST                                        |    16   | Easy         | [l938-p1](./l938-p1.py)   |
+
+#### Table 2 (26 problems) (#16 to #41)
+
+| done   |   number | name                                                    |   order | difficulty   | file                      |
+|:-------|---------:|:--------------------------------------------------------|--------:|:-------------|:--------------------------|
 | ✅     |      938 | Range Sum of BST                                        |    16   | Easy         | [l938-p1](./l938-p1.py)   |
 | ✅     |     1091 | Shortest Path in Binary Matrix                          |    17   | Med.         | [l1091-p1](./l1091-p1.py) |
 | ✅     |        1 | Two Sum                                                 |    18   | Easy         | [l1-p1](./l1-p1.py)       |
@@ -42,13 +73,20 @@
 | ✅     |      791 | Custom Sort String                                      |    38   | Med.         | [l791-p1](./l791-p1.py)   |
 | ✅     |      670 | Maximum Swap                                            |    39   | Med.         | [l670-p1](./l670-p1.py)   |
 | ✅     |       15 | 3Sum                                                    |    40   | Hard         | [l15-p1](./l15-p1.py)     |
+| ✅     |      987 | Vertical Order Traversal of a Binary Tree               |    41   | Hard         | [l987-p1](./l987-p1.py)   ||         
+
+
+#### Table 3 (26 problems) (#41 to #66)
+  
+| done   |   number | name                                                    |   order | difficulty   | file                      |
+|:-------|---------:|:--------------------------------------------------------|--------:|:-------------|:--------------------------|
 | ✅     |      987 | Vertical Order Traversal of a Binary Tree               |    41   | Hard         | [l987-p1](./l987-p1.py)   |
 | ✅     |     1539 | Kth Missing Positive Number                             |    42   | Easy         | [l1539-p1](./l1539-p1.py) |
 | ✅     |      133 | Clone Graph                                             |    43   | Med.         | [l133-p1](./l133-p1.py)   |
 | ✅     |       65 | Valid Number                                            |    44   | Hard         | [l65-p1](./l65-p1.py)     |
 | ✅     |        2 | Add Two Numbers                                         |    45   | Med.         | [l2-p1](./l2-p1.py)       |
 | ✅     |       76 | Minimum Window Substring                                |    46   | Hard         | [l76-p1](./l76-p1.py)     |
-| ✅     |       34 | Find First and Last Position of Element in Array        |    47   | Med.         | [l34-p1](./l34-p1.py)     |
+| ✅     |       34 | Find First and Last Position of Element in Array        |    47   | Med.         | [l34-p1](./l34-p1.py)    |
 | ✅     |      200 | Number of Islands                                       |    48   | Med.         | [l200-p1](./l200-p1.py)   |
 | ✅     |      121 | Best Time to Buy and Sell Stock                         |    49   | Easy         | [l121-p1](./l121-p1.py)   |
 | ✅     |       14 | Longest Common Prefix                                   |    50   | Easy         | [l14-p1](./l14-p1.py)     |
@@ -67,6 +105,16 @@
 | ✅     |     1768 | Merge Strings Alternately                               |    63   | Easy         | [l1768-p1](./l1768-p1.py) |
 | ✅     |       20 | Valid Parentheses                                       |    64   | Easy         | [l20-p1](./l20-p1.py)     |
 | ✅     |      270 | Closest Binary Search Tree Value                        |    65   | Easy         | [l270-p1](./l270-p1.py)   |
+| ✅     |      398 | Random Pick Index                                       |    66   | Med.         | [l398-p1](./l398-p1.py)   |
+
+
+Table 4
+
+
+#### Table 5 (26 problems) (#66 to 91)
+
+| done   |   number | name                                                    |   order | difficulty   | file                      |
+|:-------|---------:|:--------------------------------------------------------|--------:|:-------------|:--------------------------|
 | ✅     |      398 | Random Pick Index                                       |    66   | Med.         | [l398-p1](./l398-p1.py)   |
 | ✅     |      415 | Add Strings                                             |    67   | Easy         | [l415-p1](./l415-p1.py)   |
 | ✅     |       17 | Letter Combinations of a Phone Number                   |    68   | Med.         | [l17-p1](./l17-p1.py)     |
@@ -93,6 +141,13 @@
 | ✅     |      269 | Alien Dictionary                                        |    89   | Hard         | [l269-p1](./l269-p1.py)   |
 | ✅     |      658 | Find K Closest Elements                                 |    90   | Med.         | [l658-p1](./l658-p1.py)   |
 | ✅     |       26 | Remove Duplicates from Sorted Array                     |    91   | Easy         | [l26-p1](./l26-p1.py)     |
+
+
+#### Table 6 (26 problems) (#91 to #116)
+
+| done   |   number | name                                                    |   order | difficulty   | file                      |
+|:-------|---------:|:--------------------------------------------------------|--------:|:-------------|:--------------------------|
+| ✅     |       26 | Remove Duplicates from Sorted Array                     |    91   | Easy         | [l26-p1](./l26-p1.py)     |
 | ✅     |      124 | Binary Tree Maximum Path Sum                            |    92   | Hard         | [l124-p1](./l124-p1.py)   |
 | ✅     |      219 | Contains Duplicate II                                   |    93   | Med.         | [l219-p1](./l219-p1.py)   |
 | ✅     |      380 | Insert Delete GetRandom O(1)                            |    94   | Med.         | [l380-p1](./l380-p1.py)   |
@@ -117,6 +172,13 @@
 | ✅     |     1424 | Diagonal Traverse II                                    |    113  | Med.         | [l1424-p1](./l1424-p1.py) |
 | ✅     |       10 | Regular Expression Matching                             |    114  | Hard         | [l10-p1](./l10-p1.py)     |
 | ✅     |       16 | 3Sum Closest                                            |    115  | Med.         | [l16-p1](./l16-p1.py)     |
+| ✅     |       43 | Multiply Strings                                        |    116  | Med.         | [l43-p1](./l43-p1.py)     |
+
+
+#### Table 7 (26 problems) (#116 to #141)
+
+| done   |   number | name                                                    |   order | difficulty   | file                      |
+|:-------|---------:|:--------------------------------------------------------|--------:|:-------------|:--------------------------|
 | ✅     |       43 | Multiply Strings                                        |    116  | Med.         | [l43-p1](./l43-p1.py)     |
 | ✅     |      378 | Kth Smallest Element in a Sorted Matrix                 |    117  | Med.         | [l378-p1](./l378-p1.py)   |
 | ✅     |      443 | String Compression                                      |    118  | Med.         | [l443-p1](./l443-p1.py)   |
@@ -143,6 +205,13 @@
 | ✅     |       75 | Sort Colors                                             |    139  | Med.         | [l75-p1](./l75-p1.py)     |
 | ✅     |      118 | Pascal's Triangle                                       |    140  | Easy         | [l118-p1](./l118-p1.py)   |
 | ✅     |      198 | House Robber                                            |    141  | Med.         | [l198-p1](./l198-p1.py)   |
+
+
+#### Table 8 (26 problems) (#141 to #166)
+
+| done   |   number | name                                                    |   order | difficulty   | file                      |
+|:-------|---------:|:--------------------------------------------------------|--------:|:-------------|:--------------------------|
+| ✅     |      198 | House Robber                                            |    141  | Med.         | [l198-p1](./l198-p1.py)   |
 | ✅     |      206 | Reverse Linked List                                     |    142  | Easy         | [l206-p1](./l206-p1.py)   |
 | ✅     |      234 | Palindrome Linked List                                  |    143  | Easy         | [l234-p1](./l234-p1.py)   |
 | ✅     |      235 | Lowest Common Ancestor of a Binary Search Tree          |    144  | Med.         | [l235-p1](./l235-p1.py)   |
@@ -168,6 +237,13 @@
 | ✅     |      102 | Binary Tree Level Order Traversal                       |    164  | Med.         | [l102-p1](./l102-p1.py)   |
 | ✅     |      103 | Binary Tree Zigzag Level Order Traversal                |    165  | Med.         | [l103-p1](./l103-p1.py)   |
 | ✅     |      109 | Convert Sorted List to Binary Search Tree               |    166  | Med.         | [l109-p1](./l109-p1.py)   |
+
+
+#### Table 9 (26 problems)
+
+| done   |   number | name                                                    |   order | difficulty   | file                      |
+|:-------|---------:|:--------------------------------------------------------|--------:|:-------------|:--------------------------|
+| ✅     |      109 | Convert Sorted List to Binary Search Tree               |    166  | Med.         | [l109-p1](./l109-p1.py)   |
 | ✅     |      113 | Path Sum II                                             |    167  | Med.         | [l113-p1](./l113-p1.py)   |
 | ✅     |      131 | Palindrome Partitioning                                 |    168  | Med.         | [l131-p1](./l131-p1.py)   |
 | ✅     |      153 | Find Minimum in Rotated Sorted Array                    |    169  | Med.         | [l153-p1](./l153-p1.py)   |
@@ -192,6 +268,13 @@
 | ✅     |      286 | Walls and Gates                                         |    188  | Med.         | [l286-p1](./l286-p1.py)   |
 | ✅     |      317 | Shortest Distance from All Buildings                    |    189  | Hard         | [l317-p1](./l317-p1.py)   |
 |        |      383 | Ransom Note                                             |    190  | Easy         | [l383-p1](./l383-p1.py)   |
+| ✅     |      450 | Delete Node in a BST                                    |    191  | Med.         | [l450-p1](./l450-p1.py)   |
+
+
+#### Table 10 (26 problems)
+
+| done   |   number | name                                                    |   order | difficulty   | file                      |
+|:-------|---------:|:--------------------------------------------------------|--------:|:-------------|:--------------------------|
 | ✅     |      450 | Delete Node in a BST                                    |    191  | Med.         | [l450-p1](./l450-p1.py)   |
 | ✅     |      695 | Max Area of Island                                      |    192  | Med.         | [l695-p1](./l695-p1.py)   |
 |        |      739 | Daily Temperatures                                      |    193  | Med.         | [l739-p1](./l739-p1.py)   |

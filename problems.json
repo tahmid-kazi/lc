@@ -1,0 +1,1306 @@
+{
+    "l1004-p1.py": {
+      "number": 1004,
+      "name": "Max Consecutive Ones III",
+      "difficulty": "Medium"
+    },
+    "l100-p1.py": {
+      "number": 100,
+      "name": "Same Tree",
+      "difficulty": "Easy"
+    },
+    "l1011-p1.py": {
+      "number": 1011,
+      "name": "Capacity To Ship Packages Within D Days",
+      "difficulty": "Medium"
+    },
+    "l101-p1.py": {
+      "number": 101,
+      "name": "Symmetric Tree",
+      "difficulty": "Easy"
+    },
+    "l102-p1.py": {
+      "number": 102,
+      "name": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium"
+    },
+    "l103-p1.py": {
+      "number": 103,
+      "name": "Binary Tree Zigzag Level Order Traversal",
+      "difficulty": "Medium"
+    },
+    "l1047-p1.py": {
+      "number": 1047,
+      "name": "Remove All Adjacent Duplicates In String",
+      "difficulty": "Easy"
+    },
+    "l104-p1.py": {
+      "number": 104,
+      "name": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy"
+    },
+    "l1091-p1.py": {
+      "number": 1091,
+      "name": "Shortest Path in Binary Matrix",
+      "difficulty": "Medium"
+    },
+    "l109-p1.py": {
+      "number": 109,
+      "name": "Convert Sorted List to Binary Search Tree",
+      "difficulty": "Medium"
+    },
+
+    "l10-p1.py": {
+      "number": 10,
+      "name": "Regular Expression Matching",
+      "difficulty": "Hard"
+    },
+    "l113-p1.py": {
+      "number": 113,
+      "name": "Path Sum II",
+      "difficulty": "Medium"
+    },
+    "l114-p1.py": {
+      "number": 114,
+      "name": "Flatten Binary Tree to Linked List",
+      "difficulty": "Medium"
+    },
+    "l1161-p1.py": {
+      "number": 1161,
+      "name": "Maximum Level Sum of a Binary Tree",
+      "difficulty": "Medium"
+    },
+    "l116-p1.py": {
+      "number": 116,
+      "name": "Populating Next Right Pointers in Each Node",
+      "difficulty": "Medium"
+    },
+    "l117-p1.py": {
+      "number": 117,
+      "name": "Populating Next Right Pointers in Each Node II",
+      "difficulty": "Medium"
+    },
+    "l118-p1.py": {
+      "number": 118,
+      "name": "Pascal's Triangle",
+      "difficulty": "Easy"
+    },
+    "l1197-p1.py": {
+      "number": 1197,
+      "name": "Minimum Knight Moves",
+      "difficulty": "Medium"
+    },
+    "l11-p1.py": {
+      "number": 11,
+      "name": "Container With Most Water",
+      "difficulty": "Medium"
+    },
+    "l1216-p1.py": {
+      "number": 1216,
+      "name": "Valid Palindrome III",
+      "difficulty": "Hard"
+    },
+    "l121-p1.py": {
+      "number": 121,
+      "name": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy"
+    },
+    "l1249-p1.py": {
+      "number": 1249,
+      "name": "Minimum Remove to Make Valid Parentheses",
+      "difficulty": "Medium"
+    },
+    "l1249-p2.py": {
+      "number": 1249,
+      "name": "Minimum Remove to Make Valid Parentheses",
+      "difficulty": "Medium"
+    },
+    "l124-p1.py": {
+      "number": 124,
+      "name": "Binary Tree Maximum Path Sum",
+      "difficulty": "Hard"
+    },
+    "l125-p1.py": {
+      "number": 125,
+      "name": "Valid Palindrome",
+      "difficulty": "Easy"
+    },
+    "l126-p1.py": {
+      "number": 126,
+      "name": "Word Ladder II",
+      "difficulty": "Hard"
+    },
+    "l1275-p1.py": {
+      "number": 1275,
+      "name": "Find Winner on a Tic Tac Toe Game",
+      "difficulty": "Easy"
+    },
+    "l127-p1.py": {
+      "number": 127,
+      "name": "Word Ladder",
+      "difficulty": "Hard"
+    },
+    "l129-p1.py": {
+      "number": 129,
+      "name": "Sum Root to Leaf Numbers",
+      "difficulty": "Medium"
+    },
+    "l12-p1.py": {
+      "number": 12,
+      "name": "Integer to Roman",
+      "difficulty": "Medium"
+    },
+
+    "l131-p1.py": {
+      "number": 131,
+      "name": "Palindrome Partitioning",
+      "difficulty": "Medium"
+    },
+    "l131-p2.py": {
+      "number": 131,
+      "name": "Palindrome Partitioning",
+      "difficulty": "Medium"
+    },
+    "l133-p1.py": {
+      "number": 133,
+      "name": "Clone Graph",
+      "difficulty": "Medium"
+    },
+    "l133-p2.py": {
+      "number": 133,
+      "name": "Clone Graph",
+      "difficulty": "Medium"
+    },
+    "l1382-p1.py": {
+      "number": 1382,
+      "name": "Balance a Binary Search Tree",
+      "difficulty": "Medium"
+    },
+    "l138-p1.py": {
+      "number": 138,
+      "name": "Copy List with Random Pointer",
+      "difficulty": "Medium"
+    },
+    "l139-p1.py": {
+      "number": 139,
+      "name": "Word Break",
+      "difficulty": "Medium"
+    },
+    "l13-p1.py": {
+      "number": 13,
+      "name": "Roman to Integer",
+      "difficulty": "Easy"
+    },
+    "l140-p1.py": {
+      "number": 140,
+      "name": "Word Break II",
+      "difficulty": "Hard"
+    },
+    "l1424-p1.py": {
+      "number": 1424,
+      "name": "Diagonal Traverse II",
+      "difficulty": "Medium"
+    },
+    "l142-p1.py": {
+      "number": 142,
+      "name": "Linked List Cycle II",
+      "difficulty": "Medium"
+    },
+    "l143-p1.py": {
+      "number": 143,
+      "name": "Reorder List",
+      "difficulty": "Medium"
+    },
+    "l1443-p1.py": {
+      "number": 1443,
+      "name": "Minimum Time to Collect All Apples in a Tree",
+      "difficulty": "Medium"
+    },
+    "l146-p1.py": {
+      "number": 146,
+      "name": "LRU Cache",
+      "difficulty": "Medium"
+    },
+    "l1498-p1.py": {
+      "number": 1498,
+      "name": "Number of Subsequences That Satisfy the Given Sum Condition",
+      "difficulty": "Medium"
+    },
+    "l14-p1.py": {
+      "number": 14,
+      "name": "Longest Common Prefix",
+      "difficulty": "Easy"
+    },
+    "l151-p1.py": {
+      "number": 151,
+      "name": "Reverse Words in a String",
+      "difficulty": "Medium"
+    },
+    "l1539-p1.py": {
+      "number": 1539,
+      "name": "Kth Missing Positive Number",
+      "difficulty": "Easy"
+    },
+    "l153-p1.py": {
+      "number": 153,
+      "name": "Find Minimum in Rotated Sorted Array",
+      "difficulty": "Medium"
+    },
+    "l1570-p1.py": {
+      "number": 1570,
+      "name": "Dot Product of Two Sparse Vectors",
+      "difficulty": "Medium"
+    },
+
+    "l15-p1.py": {
+      "number": 15,
+      "name": "3Sum",
+      "difficulty": "Medium"
+    },
+    "l162-p1.py": {
+      "number": 162,
+      "name": "Find Peak Element",
+      "difficulty": "Medium"
+    },
+    "l163-p1.py": {
+      "number": 163,
+      "name": "Missing Ranges",
+      "difficulty": "Easy"
+    },
+    "l1644-p1.py": {
+      "number": 1644,
+      "name": "Lowest Common Ancestor of a Binary Tree II",
+      "difficulty": "Medium"
+    },
+    "l1650-p1.py": {
+      "number": 1650,
+      "name": "Lowest Common Ancestor of a Binary Tree III",
+      "difficulty": "Medium"
+    },
+    "l1652-p1.py": {
+      "number": 1652,
+      "name": "Defuse the Bomb",
+      "difficulty": "Easy"
+    },
+    "l168-p1.py": {
+      "number": 168,
+      "name": "Excel Sheet Column Title",
+      "difficulty": "Easy"
+    },
+    "l169-p1.py": {
+      "number": 169,
+      "name": "Majority Element",
+      "difficulty": "Easy"
+    },
+    "l16-p1.py": {
+      "number": 16,
+      "name": "3Sum Closest",
+      "difficulty": "Medium"
+    },
+    "l16-p2.py": {
+      "number": 16,
+      "name": "3Sum Closest",
+      "difficulty": "Medium"
+    },
+    "l173-p1.py": {
+      "number": 173,
+      "name": "Binary Search Tree Iterator",
+      "difficulty": "Medium"
+    },
+    "l1757-p1.py": {
+      "number": 1757,
+      "name": "Recyclable and Low Fat Products",
+      "difficulty": "Easy"
+    },
+    "l1762-p1.py": {
+      "number": 1762,
+      "name": "Buildings With an Ocean View",
+      "difficulty": "Medium"
+    },
+    "l1768-p1.py": {
+      "number": 1768,
+      "name": "Merge Strings Alternately",
+      "difficulty": "Easy"
+    },
+    "l1778-p1.py": {
+      "number": 1778,
+      "name": "Shortest Path in a Hidden Grid",
+      "difficulty": "Medium"
+    },
+    "l179-p1.py": {
+      "number": 179,
+      "name": "Largest Number",
+      "difficulty": "Medium"
+    },
+    "l17-p1.py": {
+      "number": 17,
+      "name": "Letter Combinations of a Phone Number",
+      "difficulty": "Medium"
+    },
+    "l1845-p1.py": {
+      "number": 1845,
+      "name": "Seat Reservation Manager",
+      "difficulty": "Medium"
+    },
+    "l1868-p1.py": {
+      "number": 1868,
+      "name": "Product of Two Run-Length Encoded Arrays",
+      "difficulty": "Medium"
+    },
+    "l197-p1.py": {
+      "number": 197,
+      "name": "Rising Temperature",
+      "difficulty": "Easy"
+    },
+
+    "l198-p1.py": {
+      "number": 198,
+      "name": "House Robber",
+      "difficulty": "Medium"
+    },
+    "l199-p1.py": {
+      "number": 199,
+      "name": "Binary Tree Right Side View",
+      "difficulty": "Medium"
+    },
+    "l19-p1.py": {
+      "number": 19,
+      "name": "Remove Nth Node From End of List",
+      "difficulty": "Medium"
+    },
+    "l1-p1.py": {
+      "number": 1,
+      "name": "Two Sum",
+      "difficulty": "Easy"
+    },
+    "l200-p1.py": {
+      "number": 200,
+      "name": "Number of Islands",
+      "difficulty": "Medium"
+    },
+    "l206-p1.py": {
+      "number": 206,
+      "name": "Reverse Linked List",
+      "difficulty": "Easy"
+    },
+    "l207-p1.py": {
+      "number": 207,
+      "name": "Course Schedule",
+      "difficulty": "Medium"
+    },
+    "l2090-p1.py": {
+      "number": 2090,
+      "name": "K Radius Subarray Averages",
+      "difficulty": "Medium"
+    },
+    "l20-p1.py": {
+      "number": 20,
+      "name": "Valid Parentheses",
+      "difficulty": "Easy"
+    },
+    "l210-p1.py": {
+      "number": 210,
+      "name": "Course Schedule II",
+      "difficulty": "Medium"
+    },
+    "l215-p1.py": {
+      "number": 215,
+      "name": "Kth Largest Element in an Array",
+      "difficulty": "Medium"
+    },
+    "l215-p2.py": {
+      "number": 215,
+      "name": "Kth Largest Element in an Array",
+      "difficulty": "Medium"
+    },
+    "l217-p1.py": {
+      "number": 217,
+      "name": "Contains Duplicate",
+      "difficulty": "Easy"
+    },
+    "l219-p1.py": {
+      "number": 219,
+      "name": "Contains Duplicate II",
+      "difficulty": "Easy"
+    },
+    "l21-p1.py": {
+      "number": 21,
+      "name": "Merge Two Sorted Lists",
+      "difficulty": "Easy"
+    },
+    "l2235-p1.py": {
+      "number": 2235,
+      "name": "Add Two Integers",
+      "difficulty": "Easy"
+    },
+    "l2236-p1.py": {
+      "number": 2236,
+      "name": "Root Equals Sum of Children",
+      "difficulty": "Easy"
+    },
+    "l224-p1.py": {
+      "number": 224,
+      "name": "Basic Calculator",
+      "difficulty": "Hard"
+    },
+    "l226-p1.py": {
+      "number": 226,
+      "name": "Invert Binary Tree",
+      "difficulty": "Easy"
+    },
+    "l227-p1.py": {
+      "number": 227,
+      "name": "Basic Calculator II",
+      "difficulty": "Medium"
+    },
+
+    "l227-p2.py": {
+      "number": 227,
+      "name": "Basic Calculator II",
+      "difficulty": "Medium"
+    },
+    "l227-p3.py": {
+      "number": 227,
+      "name": "Basic Calculator II",
+      "difficulty": "Medium"
+    },
+    "l227-p4.py": {
+      "number": 227,
+      "name": "Basic Calculator II",
+      "difficulty": "Medium"
+    },
+    "l227-t1.py": {
+      "number": 227,
+      "name": "Basic Calculator II",
+      "difficulty": "Medium"
+    },
+    "l229-p1.py": {
+      "number": 229,
+      "name": "Majority Element II",
+      "difficulty": "Medium"
+    },
+    "l22-p1.py": {
+      "number": 22,
+      "name": "Generate Parentheses",
+      "difficulty": "Medium"
+    },
+    "l2303-p1.py": {
+      "number": 2303,
+      "name": "Calculate Amount Paid in Taxes",
+      "difficulty": "Easy"
+    },
+    "l230-p1.py": {
+      "number": 230,
+      "name": "Kth Smallest Element in a BST",
+      "difficulty": "Medium"
+    },
+    "l231-p1.py": {
+      "number": 231,
+      "name": "Power of Two",
+      "difficulty": "Easy"
+    },
+    "l234-p1.py": {
+      "number": 234,
+      "name": "Palindrome Linked List",
+      "difficulty": "Easy"
+    },
+    "l236-p1.py": {
+      "number": 236,
+      "name": "Lowest Common Ancestor of a Binary Tree",
+      "difficulty": "Medium"
+    },
+    "l236-p2.py": {
+      "number": 236,
+      "name": "Lowest Common Ancestor of a Binary Tree",
+      "difficulty": "Medium"
+    },
+    "l238-p1.py": {
+      "number": 238,
+      "name": "Product of Array Except Self",
+      "difficulty": "Medium"
+    },
+    "l239-p1.py": {
+      "number": 239,
+      "name": "Sliding Window Maximum",
+      "difficulty": "Hard"
+    },
+    "l23-p1.py": {
+      "number": 23,
+      "name": "Merge k Sorted Lists",
+      "difficulty": "Hard"
+    },
+    "l2427-p1.py": {
+      "number": 2427,
+      "name": "Number of Common Factors",
+      "difficulty": "Easy"
+    },
+    "l242-p1.py": {
+      "number": 242,
+      "name": "Valid Anagram",
+      "difficulty": "Easy"
+    },
+    "l246-p1.py": {
+      "number": 246,
+      "name": "Strobogrammatic Number",
+      "difficulty": "Easy"
+    },
+    "l249-p1.py": {
+      "number": 249,
+      "name": "Group Shifted Strings",
+      "difficulty": "Medium"
+    },
+    "l252-p1.py": {
+      "number": 252,
+      "name": "Meeting Rooms",
+      "difficulty": "Easy"
+    },
+
+    "l252-p2.py": {
+      "number": 252,
+      "name": "Meeting Rooms",
+      "difficulty": "Easy"
+    },
+    "l253-p1.py": {
+      "number": 253,
+      "name": "Meeting Rooms II",
+      "difficulty": "Medium"
+    },
+    "l25-p1.py": {
+      "number": 25,
+      "name": "Reverse Nodes in k-Group",
+      "difficulty": "Hard"
+    },
+    "l2667-p1.py": {
+      "number": 2667,
+      "name": "Create Hello World Function",
+      "difficulty": "Easy"
+    },
+    "l266-p1.py": {
+      "number": 266,
+      "name": "Palindrome Permutation",
+      "difficulty": "Easy"
+    },
+    "l269-p1.py": {
+      "number": 269,
+      "name": "Alien Dictionary",
+      "difficulty": "Hard"
+    },
+    "l26-p1.py": {
+      "number": 26,
+      "name": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy"
+    },
+    "l270-p1.py": {
+      "number": 270,
+      "name": "Closest Binary Search Tree Value",
+      "difficulty": "Easy"
+    },
+    "l273-p1.py": {
+      "number": 273,
+      "name": "Integer to English Words",
+      "difficulty": "Hard"
+    },
+    "l278-p1.py": {
+      "number": 278,
+      "name": "First Bad Version",
+      "difficulty": "Easy"
+    },
+    "l27-p1.py": {
+      "number": 27,
+      "name": "Remove Element",
+      "difficulty": "Easy"
+    },
+    "l282-p1.py": {
+      "number": 282,
+      "name": "Expression Add Operators",
+      "difficulty": "Hard"
+    },
+    "l283-p1.py": {
+      "number": 283,
+      "name": "Move Zeroes",
+      "difficulty": "Easy"
+    },
+    "l286-p1.py": {
+      "number": 286,
+      "name": "Walls and Gates",
+      "difficulty": "Medium"
+    },
+    "l28-p1.py": {
+      "number": 28,
+      "name": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy"
+    },
+    "l2914-p1.py": {
+      "number": 2914,
+      "name": "Maximum Running Time of N Computers",
+      "difficulty": "Hard"
+    },
+    "l295-p1.py": {
+      "number": 295,
+      "name": "Find Median from Data Stream",
+      "difficulty": "Hard"
+    },
+    "l296-p1.py": {
+      "number": 296,
+      "name": "Best Meeting Point",
+      "difficulty": "Hard"
+    },
+    "l29-p1.py": {
+      "number": 29,
+      "name": "Divide Two Integers",
+      "difficulty": "Medium"
+    },
+    "l2-p1.py": {
+      "number": 2,
+      "name": "Add Two Numbers",
+      "difficulty": "Medium"
+    },
+
+    "l301-p1.py": {
+      "number": 301,
+      "name": "Remove Invalid Parentheses",
+      "difficulty": "Hard"
+    },
+    "l303-p1.py": {
+      "number": 303,
+      "name": "Range Sum Query - Immutable",
+      "difficulty": "Easy"
+    },
+    "l3097-p1.py": {
+      "number": 3097,
+      "name": "Design Linked List",
+      "difficulty": "Medium"
+    },
+    "l314-p1.py": {
+      "number": 314,
+      "name": "Binary Tree Vertical Order Traversal",
+      "difficulty": "Medium"
+    },
+    "l314-p2.py": {
+      "number": 314,
+      "name": "Binary Tree Vertical Order Traversal",
+      "difficulty": "Medium"
+    },
+    "l317-p1.py": {
+      "number": 317,
+      "name": "Shortest Distance from All Buildings",
+      "difficulty": "Hard"
+    },
+    "l31-p1.py": {
+      "number": 31,
+      "name": "Next Permutation",
+      "difficulty": "Medium"
+    },
+    "l325-p1.py": {
+      "number": 325,
+      "name": "Maximum Size Subarray Sum Equals k",
+      "difficulty": "Medium"
+    },
+    "l329-p1.py": {
+      "number": 329,
+      "name": "Longest Increasing Path in a Matrix",
+      "difficulty": "Hard"
+    },
+    "l333-p1.py": {
+      "number": 333,
+      "name": "Largest BST Subtree",
+      "difficulty": "Medium"
+    },
+    "l339-p1.py": {
+      "number": 339,
+      "name": "Nested List Weight Sum",
+      "difficulty": "Medium"
+    },
+    "l33-p1.py": {
+      "number": 33,
+      "name": "Search in Rotated Sorted Array",
+      "difficulty": "Medium"
+    },
+    "l346-p1.py": {
+      "number": 346,
+      "name": "Moving Average from Data Stream",
+      "difficulty": "Easy"
+    },
+    "l347-p1.py": {
+      "number": 347,
+      "name": "Top K Frequent Elements",
+      "difficulty": "Medium"
+    },
+    "l348-p1.py": {
+      "number": 348,
+      "name": "Design Tic-Tac-Toe",
+      "difficulty": "Medium"
+    },
+    "l34-p1.py": {
+      "number": 34,
+      "name": "Find First and Last Position of Element in Sorted Array",
+      "difficulty": "Medium"
+    },
+    "l35-p1.py": {
+      "number": 35,
+      "name": "Search Insert Position",
+      "difficulty": "Easy"
+    },
+    "l378-p1.py": {
+      "number": 378,
+      "name": "Kth Smallest Element in a Sorted Matrix",
+      "difficulty": "Medium"
+    },
+    "l37-p1.py": {
+      "number": 37,
+      "name": "Sudoku Solver",
+      "difficulty": "Hard"
+    },
+    "l380-p1.py": {
+      "number": 380,
+      "name": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium"
+    },
+
+    "l38-p1.py": {
+      "number": 38,
+      "name": "Count and Say",
+      "difficulty": "Medium"
+    },
+    "l392-p1.py": {
+      "number": 392,
+      "name": "Is Subsequence",
+      "difficulty": "Easy"
+    },
+    "l394-p1.py": {
+      "number": 394,
+      "name": "Decode String",
+      "difficulty": "Medium"
+    },
+    "l398-p1.py": {
+      "number": 398,
+      "name": "Random Pick Index",
+      "difficulty": "Medium"
+    },
+    "l3-p1.py": {
+      "number": 3,
+      "name": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium"
+    },
+    "l408-p1.py": {
+      "number": 408,
+      "name": "Valid Word Abbreviation",
+      "difficulty": "Easy"
+    },
+    "l40-p1.py": {
+      "number": 40,
+      "name": "Combination Sum II",
+      "difficulty": "Medium"
+    },
+    "l415-p1.py": {
+      "number": 415,
+      "name": "Add Strings",
+      "difficulty": "Easy"
+    },
+    "l419-p1.py": {
+      "number": 419,
+      "name": "Battleships in a Board",
+      "difficulty": "Medium"
+    },
+    "l426-p1.py": {
+      "number": 426,
+      "name": "Convert Binary Search Tree to Sorted Doubly Linked List",
+      "difficulty": "Medium"
+    },
+    "l426-p2.py": {
+      "number": 426,
+      "name": "Convert Binary Search Tree to Sorted Doubly Linked List",
+      "difficulty": "Medium"
+    },
+    "l42-p1.py": {
+      "number": 42,
+      "name": "Trapping Rain Water",
+      "difficulty": "Hard"
+    },
+    "l435-p1.py": {
+      "number": 435,
+      "name": "Non-overlapping Intervals",
+      "difficulty": "Medium"
+    },
+    "l43-p1.py": {
+      "number": 43,
+      "name": "Multiply Strings",
+      "difficulty": "Medium"
+    },
+    "l443-p1.py": {
+      "number": 443,
+      "name": "String Compression",
+      "difficulty": "Medium"
+    },
+    "l44-p1.py": {
+      "number": 44,
+      "name": "Wildcard Matching",
+      "difficulty": "Hard"
+    },
+    "l450-p1.py": {
+      "number": 450,
+      "name": "Delete Node in a BST",
+      "difficulty": "Medium"
+    },
+    "l468-p1.py": {
+      "number": 468,
+      "name": "Validate IP Address",
+      "difficulty": "Medium"
+    },
+    "l46-p1.py": {
+      "number": 46,
+      "name": "Permutations",
+      "difficulty": "Medium"
+    },
+    "l480-p1.py": {
+      "number": 480,
+      "name": "Sliding Window Median",
+      "difficulty": "Hard"
+    },
+
+    "l489-p1.py": {
+      "number": 489,
+      "name": "Robot Room Cleaner",
+      "difficulty": "Hard"
+    },
+    "l48-p1.py": {
+      "number": 48,
+      "name": "Rotate Image",
+      "difficulty": "Medium"
+    },
+    "l494-p1.py": {
+      "number": 494,
+      "name": "Target Sum",
+      "difficulty": "Medium"
+    },
+    "l498-p1.py": {
+      "number": 498,
+      "name": "Diagonal Traverse",
+      "difficulty": "Medium"
+    },
+    "l49-p1.py": {
+      "number": 49,
+      "name": "Group Anagrams",
+      "difficulty": "Medium"
+    },
+    "l4-p1.py": {
+      "number": 4,
+      "name": "Median of Two Sorted Arrays",
+      "difficulty": "Hard"
+    },
+    "l509-p1.py": {
+      "number": 509,
+      "name": "Fibonacci Number",
+      "difficulty": "Easy"
+    },
+    "l50-p1.py": {
+      "number": 50,
+      "name": "Pow(x, n)",
+      "difficulty": "Medium"
+    },
+    "l50-p2.py": {
+      "number": 50,
+      "name": "Pow(x, n)",
+      "difficulty": "Medium"
+    },
+    "l523-p1.py": {
+      "number": 523,
+      "name": "Continuous Subarray Sum",
+      "difficulty": "Medium"
+    },
+    "l525-p1.py": {
+      "number": 525,
+      "name": "Contiguous Array",
+      "difficulty": "Medium"
+    },
+    "l528-p1.py": {
+      "number": 528,
+      "name": "Random Pick with Weight",
+      "difficulty": "Medium"
+    },
+    "l529-p1.py": {
+      "number": 529,
+      "name": "Minesweeper",
+      "difficulty": "Medium"
+    },
+    "l536-p1.py": {
+      "number": 536,
+      "name": "Construct Binary Tree from String",
+      "difficulty": "Medium"
+    },
+    "l539-p1.py": {
+      "number": 539,
+      "name": "Minimum Time Difference",
+      "difficulty": "Medium"
+    },
+    "l53-p1.py": {
+      "number": 53,
+      "name": "Maximum Subarray",
+      "difficulty": "Easy"
+    },
+    "l543-p1.py": {
+      "number": 543,
+      "name": "Diameter of Binary Tree",
+      "difficulty": "Easy"
+    },
+    "l543-p2.py": {
+      "number": 543,
+      "name": "Diameter of Binary Tree",
+      "difficulty": "Easy"
+    },
+    "l545-p1.py": {
+      "number": 545,
+      "name": "Boundary of Binary Tree",
+      "difficulty": "Hard"
+    },
+    "l54-p1.py": {
+      "number": 54,
+      "name": "Spiral Matrix",
+      "difficulty": "Medium"
+    },
+
+    "l55-p1.py": {
+      "number": 55,
+      "name": "Jump Game",
+      "difficulty": "Medium"
+    },
+    "l560-p1.py": {
+      "number": 560,
+      "name": "Subarray Sum Equals K",
+      "difficulty": "Medium"
+    },
+    "l56-p1.py": {
+      "number": 56,
+      "name": "Merge Intervals",
+      "difficulty": "Medium"
+    },
+    "l57-p1.py": {
+      "number": 57,
+      "name": "Insert Interval",
+      "difficulty": "Medium"
+    },
+    "l5-p1.py": {
+      "number": 5,
+      "name": "Longest Palindromic Substring",
+      "difficulty": "Medium"
+    },
+    "l605-p1.py": {
+      "number": 605,
+      "name": "Can Place Flowers",
+      "difficulty": "Easy"
+    },
+    "l616-p1.py": {
+      "number": 616,
+      "name": "Add Bold Tag in String",
+      "difficulty": "Medium"
+    },
+    "l62-p1.py": {
+      "number": 62,
+      "name": "Unique Paths",
+      "difficulty": "Medium"
+    },
+    "l636-p1.py": {
+      "number": 636,
+      "name": "Exclusive Time of Functions",
+      "difficulty": "Medium"
+    },
+    "l63-p1.py": {
+      "number": 63,
+      "name": "Unique Paths II",
+      "difficulty": "Medium"
+    },
+    "l643-p1.py": {
+      "number": 643,
+      "name": "Maximum Average Subarray I",
+      "difficulty": "Easy"
+    },
+    "l647-p1.py": {
+      "number": 647,
+      "name": "Palindromic Substrings",
+      "difficulty": "Medium"
+    },
+    "l658-p1.py": {
+      "number": 658,
+      "name": "Find K Closest Elements",
+      "difficulty": "Medium"
+    },
+    "l65-p1.py": {
+      "number": 65,
+      "name": "Valid Number",
+      "difficulty": "Hard"
+    },
+    "l66-p1.py": {
+      "number": 66,
+      "name": "Plus One",
+      "difficulty": "Easy"
+    },
+    "l670-p1.py": {
+      "number": 670,
+      "name": "Maximum Swap",
+      "difficulty": "Medium"
+    },
+    "l67-p1.py": {
+      "number": 67,
+      "name": "Add Binary",
+      "difficulty": "Easy"
+    },
+    "l680-p1.py": {
+      "number": 680,
+      "name": "Valid Palindrome II",
+      "difficulty": "Easy"
+    },
+    "l691-p1.py": {
+      "number": 691,
+      "name": "Stickers to Spell Word",
+      "difficulty": "Hard"
+    },
+    "l695-p1.py": {
+      "number": 695,
+      "name": "Max Area of Island",
+      "difficulty": "Medium"
+    },
+
+    "l69-p1.py": {
+      "number": 69,
+      "name": "Sqrt(x)",
+      "difficulty": "Easy"
+    },
+    "l703-p1.py": {
+      "number": 703,
+      "name": "Kth Largest Element in a Stream",
+      "difficulty": "Easy"
+    },
+    "l708-p1.py": {
+      "number": 708,
+      "name": "Insert into a Sorted Circular Linked List",
+      "difficulty": "Medium"
+    },
+    "l70-p1.py": {
+      "number": 70,
+      "name": "Climbing Stairs",
+      "difficulty": "Easy"
+    },
+    "l71-p1.py": {
+      "number": 71,
+      "name": "Simplify Path",
+      "difficulty": "Medium"
+    },
+    "l721-p1.py": {
+      "number": 721,
+      "name": "Accounts Merge",
+      "difficulty": "Medium"
+    },
+    "l721-p2.py": {
+      "number": 721,
+      "name": "Accounts Merge",
+      "difficulty": "Medium"
+    },
+    "l723-p1.py": {
+      "number": 723,
+      "name": "Candy Crush",
+      "difficulty": "Medium"
+    },
+    "l72-p1.py": {
+      "number": 72,
+      "name": "Edit Distance",
+      "difficulty": "Hard"
+    },
+    "l735-p1.py": {
+      "number": 735,
+      "name": "Asteroid Collision",
+      "difficulty": "Medium"
+    },
+    "l73-p1.py": {
+      "number": 73,
+      "name": "Set Matrix Zeroes",
+      "difficulty": "Medium"
+    },
+    "l75-p1.py": {
+      "number": 75,
+      "name": "Sort Colors",
+      "difficulty": "Medium"
+    },
+    "l766-p1.py": {
+      "number": 766,
+      "name": "Toeplitz Matrix",
+      "difficulty": "Easy"
+    },
+    "l76-p1.py": {
+      "number": 76,
+      "name": "Minimum Window Substring",
+      "difficulty": "Hard"
+    },
+    "l78-p1.py": {
+      "number": 78,
+      "name": "Subsets",
+      "difficulty": "Medium"
+    },
+    "l791-p1.py": {
+      "number": 791,
+      "name": "Custom Sort String",
+      "difficulty": "Medium"
+    },
+    "l796-p1.py": {
+      "number": 796,
+      "name": "Rotate String",
+      "difficulty": "Easy"
+    },
+    "l79-p1.py": {
+      "number": 79,
+      "name": "Word Search",
+      "difficulty": "Medium"
+    },
+    "l7-p1.py": {
+      "number": 7,
+      "name": "Reverse Integer",
+      "difficulty": "Medium"
+    },
+    "l80-p1.py": {
+      "number": 80,
+      "name": "Remove Duplicates from Sorted Array II",
+      "difficulty": "Medium"
+    },
+    "l814-p1.py": {
+      "number": 814,
+      "name": "Binary Tree Pruning",
+      "difficulty": "Medium"
+    },
+    "l81-p1.py": {
+      "number": 81,
+      "name": "Search in Rotated Sorted Array II",
+      "difficulty": "Medium"
+    },
+    "l824-p1.py": {
+      "number": 824,
+      "name": "Goat Latin",
+      "difficulty": "Easy"
+    },
+    "l825-p1.py": {
+      "number": 825,
+      "name": "Friends Of Appropriate Ages",
+      "difficulty": "Medium"
+    },
+    "l827-p1.py": {
+      "number": 827,
+      "name": "Making A Large Island",
+      "difficulty": "Hard"
+    },
+    "l82-p1.py": {
+      "number": 82,
+      "name": "Remove Duplicates from Sorted List II",
+      "difficulty": "Medium"
+    },
+    "l84-p1.py": {
+      "number": 84,
+      "name": "Largest Rectangle in Histogram",
+      "difficulty": "Hard"
+    },
+    "l852-p1.py": {
+      "number": 852,
+      "name": "Peak Index in a Mountain Array",
+      "difficulty": "Medium"
+    },
+    "l863-p1.py": {
+      "number": 863,
+      "name": "All Nodes Distance K in Binary Tree",
+      "difficulty": "Medium"
+    },
+    "l875-p1.py": {
+      "number": 875,
+      "name": "Koko Eating Bananas",
+      "difficulty": "Medium"
+    },
+    "l88-p1.py": {
+      "number": 88,
+      "name": "Merge Sorted Array",
+      "difficulty": "Easy"
+    },
+    "l8-p1.py": {
+      "number": 8,
+      "name": "String to Integer (atoi)",
+      "difficulty": "Medium"
+    },
+    "l907-p1.py": {
+      "number": 907,
+      "name": "Sum of Subarray Minimums",
+      "difficulty": "Medium"
+    },
+    "l91-p1.py": {
+      "number": 91,
+      "name": "Decode Ways",
+      "difficulty": "Medium"
+    },
+    "l921-p1.py": {
+      "number": 921,
+      "name": "Minimum Add to Make Parentheses Valid",
+      "difficulty": "Medium"
+    },
+    "l930-p1.py": {
+      "number": 930,
+      "name": "Binary Subarrays With Sum",
+      "difficulty": "Medium"
+    },
+    "l938-p1.py": {
+      "number": 938,
+      "name": "Range Sum of BST",
+      "difficulty": "Easy"
+    },
+    "l938-p2.py": {
+      "number": 938,
+      "name": "Range Sum of BST",
+      "difficulty": "Easy"
+    },
+    "l93-p1.py": {
+      "number": 93,
+      "name": "Restore IP Addresses",
+      "difficulty": "Medium"
+    },
+    "l94-p1.py": {
+      "number": 94,
+      "name": "Binary Tree Inorder Traversal",
+      "difficulty": "Easy"
+    },
+
+    "l953-p1.py": {
+      "number": 953,
+      "name": "Verifying an Alien Dictionary",
+      "difficulty": "Easy"
+    },
+    "l958-p1.py": {
+      "number": 958,
+      "name": "Check Completeness of a Binary Tree",
+      "difficulty": "Medium"
+    },
+    "l973-p1.py": {
+      "number": 973,
+      "name": "K Closest Points to Origin",
+      "difficulty": "Medium"
+    },
+    "l977-p1.py": {
+      "number": 977,
+      "name": "Squares of a Sorted Array",
+      "difficulty": "Easy"
+    },
+    "l983-p1.py": {
+      "number": 983,
+      "name": "Minimum Cost For Tickets",
+      "difficulty": "Medium"
+    },
+    "l986-p1.py": {
+      "number": 986,
+      "name": "Interval List Intersections",
+      "difficulty": "Medium"
+    },
+    "l987-p1.py": {
+      "number": 987,
+      "name": "Vertical Order Traversal of a Binary Tree",
+      "difficulty": "Hard"
+    },
+    "l9-p1.py": {
+      "number": 9,
+      "name": "Palindrome Number",
+      "difficulty": "Easy"
+    }
+  
+}
+                            
