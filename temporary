@@ -1,3 +1,39 @@
+# sk - L1 ----------------------------------------------------------------------------------------------------
+# 
+
+# class Solution:
+#     def twoSum(self, nums: List[int], target: int) -> List[int]:
+#         solution_dict = {}
+#         for i in range(0,len(nums)):
+#             required_number = target - nums[i]
+#             if required_number in solution_dict:
+#                 return [solution_dict[required_number],i]
+#             solution_dict[nums[i]] = i
+
+
+class Solution:
+    def twoSum(self, nums: List[int], target): 
+
+        nums_dict = defaultdict(list)
+
+        for i in range(len(nums)):
+
+            complement = target - nums[i]
+
+            if complement in nums_dict:
+                return [nums_dict[complement], i]
+            
+            if i not in nums_dict:
+                nums_dict[nums[i]] = i
+        
+        return None
+
+
+
+
+
+
+
 # sk + tk - L199 ---------------------------------------------------------------------------------------------
 
 
